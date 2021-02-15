@@ -14,10 +14,10 @@ Push the right analog stick up to ~h~accelerate.
 Pull the right analog stick back to brake, or to reverse if the vehicle has stopped.
 
 [HELP7_A]
-Usa y mantén~h~ ~k~~PED_LOCK_TARGET~ ~w~para ~h~apuntar~w~ con el rifle.
+Mantén~h~ ~k~~PED_LOCK_TARGET~ ~w~para ~h~apuntar~w~ con el rifle.
 
 [HELP7_A]
-Usa y mantén~h~ ~k~~PED_LOCK_TARGET~ ~w~para ~h~apuntar~w~ con el rifle.
+Mantén~h~ ~k~~PED_LOCK_TARGET~ ~w~para ~h~apuntar~w~ con el rifle.
 
 [HELP10]
 Esta insignia indica que tienes un nivel de búsqueda.
@@ -38,13 +38,13 @@ Esta es una misión cronometrada, debes completarla antes de que el temporizador
 ~g~¡Necesitas más dinero!
 
 [REWARD]
-RECOMPENSA $~1~
+RECOMPENSA DE ~1~ $
 
 [M_FAIL]
 ¡MISIÓN FRACASADA!
 
 [M_PASS]
-¡MISIÓN SUPERADA! $~1~
+¡MISIÓN SUPERADA! ~1~ $
 
 [DEAD]
 ¡ELIMINADO!
@@ -272,10 +272,10 @@ Katana
 Chainsaw
 
 [G_COST]
-Cost: $~1~
+Precio: ~1~ $
 
 [CAR_1]
-Ambulance
+Ambulancia
 
 [MALIBU]
 The Malibu Club
@@ -2381,10 +2381,10 @@ Godfather
 WELCOME TO
 
 [TSCORE]
-EARNINGS: $~1~
+GANANCIAS: ~1~$
 
 [PBOAT_2]
-Press the ~h~~k~~PED_FIREWEAPON~ ~w~button to fire the boat cannons.
+Usa ~h~~k~~PED_FIREWEAPON~ ~w~para disparar los cañones del barco.
 
 [HJSTAT]
 Distance: ~1~.~1~m Height: ~1~.~1~m Flips: ~1~ Rotation: ~1~_
@@ -2498,7 +2498,7 @@ Dec
 --:---:---- --:--:--
 
 [BONUS]
-~g~BONUS $~1~
+~g~BONUS DE ~1~$
 
 [HORN1]
 Press the ~h~~k~~VEHICLE_HORN~ ~w~button to activate the ~h~horn.
@@ -2513,7 +2513,7 @@ Press the ~h~~k~~VEHICLE_HORN~ ~w~button to activate the ~h~horn
 Enter and exit vehicle
 
 [TAXI_M]
-'TAXI DRIVER'
+'TAXISTA'
 
 [COP_M]
 'VIGILANTE'
@@ -3386,16 +3386,16 @@ Time:
 What is wrong with you??
 
 [FEA_2SP]
-2 Speakers
+2 Altavoces
 
 [FEA_4SP]
-More than 2 speakers
+Más de 2 Altavoces
 
 [FEA_EAR]
-Headphones
+Auriculares
 
 [FEA_NAH]
-NO AUDIO HARDWARE
+NO HAY HARDWARE DE AUDIO
 
 [FET_APP]
 APPLY
@@ -3581,19 +3581,19 @@ Language Setup
 Player Setup
 
 [FEA_OUT]
-Output
+Salida
 
 [FEA_ST]
-Stereo
+Estéreo
 
 [FEA_DTS]
 DTS
 
 [FEA_RSS]
-Radio station
+Emisora de Radio
 
 [FEA_NON]
-RADIO OFF
+RADIO APAGADA
 
 [FEA_FM0]
 WILDSTYLE
@@ -4154,22 +4154,22 @@ Save File 7 Not Present
 Save File 8 Not Present
 
 [FEA_CHA]
-Changing audio output to STEREO. Please wait...
+Cambiando salida de audio a ESTÉREO. Por favor, espera...
 
 [FEA_CHD]
-Warning! You are changing from STEREO output to DTS. Please wait...
+¡Cuidado! Estás cambiando de salida ESTÉREO a DTS. Por favor, espera...
 
 [FEI_SEL]
 Select
 
 [FEI_BAC]
-Back
+Volver
 
 [FEI_RES]
-Resume
+Continuar
 
 [FEI_NAV]
-Navigate
+Navegar
 
 [FEI_BTX]
 / button -
@@ -4178,7 +4178,7 @@ Navigate
 " button -
 
 [FEI_STA]
-START button -
+START -
 
 [FEI_BTD]
 ; = > < -
@@ -4187,7 +4187,7 @@ START button -
 Stop
 
 [ST_ICEC]
-'Ice Cream' Sold
+'Helado' vendido
 
 [MOB_68A]
 Tommy son, have I got a surprise for you
@@ -6353,13 +6353,13 @@ RC Baron Race
 RC Raider Pickup
 
 [FEA_CTD]
-Warning! This feature requires DTS compatible hardware to be connected. Proceed?
+¡Cuidado! Esta función requiere la conexión de hardware compatible con DTS. ¿Continuar?
 
 [FEM_STE]
-USE STEREO
+USAR ESTÉREO
 
 [GREET]
-Greetings from...
+Saludos desde...
 
 [LANCE_1]
 Come on man, drive more careful!
@@ -6431,7 +6431,7 @@ Look at the size of that chopper!
 Here he comes again!
 
 [FEA_DSM]
-Warning! This savegame is set to use DTS. This requires DTS compatible hardware to be connected. Please select whether you want to proceed using DTS or STEREO output.
+¡Cuidado! Esta partida está configurada para usar DTS. Requiere la conexión de hardware compatible con DTS. Selecciona si quieres seguir utilizando la salida DTS o ESTÉREO.
 
 [STFT_23]
 Fastest time for Checkpoint Charlie
@@ -7073,7 +7073,7 @@ LEFT, RIGHT, MOUSEWHEEL TO ADJUST
 BACKSPACE TO CLEAR - LMB, RETURN TO CHANGE
 
 [FET_DSN]
-Default Player Skin.bmp
+Por Defecto.bmp
 
 [FET_RSO]
 ORIGINAL SETTING RESTORED
@@ -7082,10 +7082,10 @@ ORIGINAL SETTING RESTORED
 HARDWARE NOT AVAILABLE - ORIGINAL SETTING RESTORED
 
 [FEA_3DH]
-AUDIO HARDWARE
+HARDWARE DE AUDIO
 
 [FEA_SPK]
-SPEAKERS CONFIGURATION
+CONFIGURACIÓN DE SALIDA
 
 [FEM_LOD]
 DRAW DISTANCE
@@ -7328,22 +7328,22 @@ Turret + Lean Down
 SELECT A NEW CONTROL FOR THIS ACTION
 
 [FEA_NM3]
-NO MP3 FILES FOUND
+SIN ARCHIVOS MP3
 
 [FEA_MPB]
-MP3 VOLUME BOOST
+VOLUMEN DE MP3
 
 [FEA_MUS]
-MUSIC VOLUME
+VOLUMEN DE MÚSICA
 
 [FEA_SFX]
-SFX VOLUME
+VOLUMEN DE AMBIENTE
 
 [CVT_ERR]
 You have run out of disk space. Please make some space on your harddisk before continuing. Press ESC to cancel.
 
 [FEA_ADP]
-AUTO-DETECT HARDWARE
+AUTO-DETECTAR HARDWARE
 
 {=================================== MISSION TABLE AMBULAE ===================================}
 
