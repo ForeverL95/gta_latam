@@ -32,10 +32,10 @@ Press ~k~~PED_ANSWER_PHONE~ to have your picture taken.
 Press ~k~~PED_ANSWER_PHONE~ to take the picture.~n~~k~~VEHICLE_ENTER_EXIT~ To get the camera back.
 
 [CALLRYD]
-When on foot, press ~k~~GROUP_CONTROL_FWD~ to call Ryder back to your side if he gets too involved in a fight.
+Pulsa ~k~~GROUP_CONTROL_FWD~ para llamar a Ryder a tu lado si se involucra demasiado en una pelea.
 
 [CONS_1B]
-Use ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to rotate the crane.
+Usa ~k~~GO_LEFT~ y ~k~~GO_RIGHT~ para girar la grúa.
 
 [CONS_2B]
 Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to move the magnet closer or further away.
@@ -53,7 +53,7 @@ Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select a weapon.~N~~k~~PED_SPRINT~ View~
 ~k~~PED_SPRINT~ Buy~N~~k~~VEHICLE_ENTER_EXIT~ Back.
 
 [NITROH1]
-Press ~k~~PED_FIREWEAPON~ to activate the car's nitrous.
+Pulsa ~k~~PED_FIREWEAPON~ para activar el N2O del auto.
 
 [JCK_HLP]
 To stop Carl from entering a car once he has opened the door or dragged out a driver or passenger, use the movement controls or press ~k~~PED_FIREWEAPON~.
@@ -71,7 +71,7 @@ Press ~k~~PED_SPRINT~ to skip to the end of the flight.
 Press ~k~~PED_SPRINT~ to skip to the end of the flight.~N~Press ~k~~VEHICLE_ENTER_EXIT~ to jump from the plane.
 
 [MELHLP2]
-While holding ~k~~PED_LOCK_TARGET~ press ~k~~VEHICLE_ENTER_EXIT~ for a special attack and ~k~~PED_JUMPING~ to block.
+Mientras mantienes pulsado ~k~~PED_LOCK_TARGET~ pulsa ~k~~VEHICLE_ENTER_EXIT~ para realizar un ataque especial y ~k~~PED_JUMPING~ para cubrirte.
 
 [DNC_H2]
 Are you sure? ~N~~k~~PED_SPRINT~ Confirm and quit.~N~~k~~VEHICLE_ENTER_EXIT~ Back to dance.
@@ -83,7 +83,7 @@ To use the sniper rifle's scope press ~k~~PED_LOCK_TARGET~. Pressing ~k~~PED_SNI
 Press ~k~~PED_FIREWEAPON~ to fire.
 
 [CELSKIP]
-~k~~VEHICLE_ENTER_EXIT~ To skip a cellphone call.
+~k~~VEHICLE_ENTER_EXIT~ para saltarte la llamada telefónica.
 
 [SKIP_1]
 If you have previously completed a journey in a mission that you failed you may press ~k~~CONVERSATION_YES~ to activate a 'Trip Skip'.
@@ -92,16 +92,16 @@ If you have previously completed a journey in a mission that you failed you may 
 To raise or lower the suspension, press ~k~~VEHICLE_HORN~.
 
 [BARB_H1]
-Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select a haircut.~n~~k~~PED_SPRINT~ = View~n~~k~~VEHICLE_ENTER_EXIT~ = Quit
+Usa ~k~~GO_FORWARD~ y ~k~~GO_BACK~ para seleccionar un corte de cabello.~n~~k~~PED_SPRINT~ Ver~n~~k~~VEHICLE_ENTER_EXIT~ Salir
 
 [BARB_H2]
 ~k~~PED_SPRINT~ = Buy~N~~k~~VEHICLE_ENTER_EXIT~ = Back
 
 [DST8_36]
-Press ~k~~VEHICLE_ENTER_EXIT~ to remove the jet pack.
+Pulsa ~k~~VEHICLE_ENTER_EXIT~ para quitarte el Jetpack.
 
 [GF_RAD]
-Use ~k~~VEHICLE_RADIO_STATION_UP~ and ~k~~VEHICLE_RADIO_STATION_DOWN~ to change radio station.
+Usa ~k~~VEHICLE_RADIO_STATION_UP~ y ~k~~VEHICLE_RADIO_STATION_DOWN~ para cambiar la estación de radio.
 
 [TATTA]
 Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select an area.~N~~k~~PED_SPRINT~ Select~N~~k~~VEHICLE_ENTER_EXIT~ Quit
@@ -221,13 +221,13 @@ Press ~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~ to change camera view.
 Push ~k~~GO_LEFT~ and ~k~~GO_RIGHT~ to rotate the crane.~N~Press ~k~~PED_JUMPING~ to raise the magnet and ~k~~PED_SPRINT~ to lower it.
 
 [QUAR_1]
-The movement controls rotate the crane.~N~~k~~PED_JUMPING~ Raise winch.~N~~k~~PED_SPRINT~ Lower winch.~N~~k~~PED_FIREWEAPON~ Release objects.
+Los controles de movimiento controlan la grúa.~N~~k~~PED_JUMPING~ Levantar el cabrestante.~N~~k~~PED_SPRINT~ Bajar el cabrestante.~N~~k~~PED_FIREWEAPON~ Soltar el objeto.
 
 [ROUHELP]
 Use the movement controls to select spot.~n~~k~~PED_JUMPING~ Increase Wager~n~~k~~PED_FIREWEAPON~ Decrease Wager~n~~k~~PED_SPRINT~ Spin Wheel~n~~k~~VEHICLE_ENTER_EXIT~ Exit
 
 [ST1_4]
-Movement Controls: Rotate
+Controles de movimiento: girar
 
 [ST1_5]
 ~k~~VEHICLE_ENTER_EXIT~ Exit
@@ -245,16 +245,16 @@ Use the movement controls to select wager.~n~~k~~PED_JUMPING~ Increase Wager~N~~
 Press ~k~~PED_SPRINT~ to continue.
 
 [BB_02]
-Press and hold ~k~~PED_SPRINT~ to shoot the ball. Release ~k~~PED_SPRINT~ at the peak of the jump for maximum accuracy.
+Pulsa y mantén ~k~~PED_SPRINT~ para lanzar el balón. Suelta ~k~~PED_SPRINT~ en la parte más alta del salto para obtener la mayor precisión.
 
 [BB_03]
 You must return to the court to continue playing basketball or press ~k~~VEHICLE_ENTER_EXIT~ to quit out.
 
 [BB_07]
-Stand near the ball, and CJ will automatically pick it up.~N~Press ~k~~VEHICLE_ENTER_EXIT~ to quit out of basketball.
+Posiciónate cerca del balón, y CJ lo recogerá automáticamente.~N~Pulsa ~k~~VEHICLE_ENTER_EXIT~ para salir del baloncesto.
 
 [BB_08]
-Press ~k~~PED_SPRINT~ to pick up the ball.
+Pulsa ~k~~PED_SPRINT~ para recoger el balón.
 
 [BB_09]
 Press ~k~~PED_LOOKBEHIND~ to start the challenge mode.
@@ -263,25 +263,25 @@ Press ~k~~PED_LOOKBEHIND~ to start the challenge mode.
 ~k~~PED_JUMPING~ Increase Wager~N~~k~~PED_FIREWEAPON~ Decrease Wager~N~~k~~PED_SPRINT~ Proceed~N~~k~~VEHICLE_ENTER_EXIT~ Quit
 
 [BJ_H2]
-~k~~PED_FIREWEAPON~ Hit~N~~k~~PED_SPRINT~ Stick~N~~k~~PED_JUMPING~ Double~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+~k~~PED_FIREWEAPON~ Pedir carta~N~~k~~PED_SPRINT~ Quedarse~N~~k~~PED_JUMPING~ Doblar~N~~k~~VEHICLE_ENTER_EXIT~ Salir
 
 [BJ_H3]
-~k~~PED_FIREWEAPON~ Hit~N~~k~~PED_SPRINT~ Stick~N~~k~~PED_JUMPING~ Double~N~~k~~PED_CYCLE_WEAPON_RIGHT~ Split~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+~k~~PED_FIREWEAPON~ Pedir carta~N~~k~~PED_SPRINT~ Quedarse~N~~k~~PED_JUMPING~ Doblar~N~~k~~PED_CYCLE_WEAPON_RIGHT~ Dividir~N~~k~~VEHICLE_ENTER_EXIT~ Salir
 
 [BJ_H4]
 Press ~k~~PED_SPRINT~ to continue.
 
 [BJ_H5]
-~k~~PED_FIREWEAPON~ Hit~N~~k~~PED_SPRINT~ Stick~N~~k~~VEHICLE_ENTER_EXIT~ Quit
+~k~~PED_FIREWEAPON~ Pedir Carta~N~~k~~PED_SPRINT~ Quedarse~N~~k~~VEHICLE_ENTER_EXIT~ Salir
 
 [GYM1_36]
-To lift the dumbbells alternate between pressing ~k~~PED_SPRINT~ and ~k~~PED_FIREWEAPON~.~n~This will increase your power.
+Para levantar las pesas, alterna entre ~k~~PED_SPRINT~ y ~k~~PED_FIREWEAPON~. Esto aumentará tu fuerza.
 
 [GYM1_37]
-~w~To lift the weight alternate between pressing ~k~~PED_SPRINT~ and ~k~~PED_FIREWEAPON~.~n~This will increase your power.
+~w~Para levantar el peso alterna entre ~k~~PED_SPRINT~ y ~k~~PED_FIREWEAPON~. Esto aumentará tu fuerza.
 
 [GYM1_40]
-Press ~k~~PED_SPRINT~ rapidly to begin to pedal.
+Pulsa rápidamente ~k~~PED_SPRINT~ para empezar a pedalear.
 
 [GYM1_41]
 To change the level press ~k~~CONVERSATION_NO~ or ~k~~CONVERSATION_YES~.
@@ -305,16 +305,16 @@ Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select a weight.~N~~k~~PED_SPRINT~ Selec
 Press ~k~~CONVERSATION_NO~ to answer 'NO' or press ~k~~CONVERSATION_YES~ to answer 'YES'.
 
 [HELP31]
-To do a drive-by, first look left or right using ~k~~VEHICLE_LOOKLEFT~ or ~k~~VEHICLE_LOOKRIGHT~
+Para hacer un tiroteo desde el auto, primero mira a izquierda o derecha con ~k~~VEHICLE_LOOKLEFT~ o ~k~~VEHICLE_LOOKRIGHT~.
 
 [HELP6_C]
-Press ~k~~VEHICLE_HANDBRAKE~ to apply the vehicle's handbrake.
+Pulsa ~k~~VEHICLE_HANDBRAKE~ para usar el freno de mano del vehículo.
 
 [HELP4_A]
 Press ~k~~VEHICLE_ACCELERATE~ to accelerate.
 
 [HELP5_A]
-Press ~k~~VEHICLE_BRAKE~ to brake, or to reverse if the bike has stopped.
+Pulsa ~k~~VEHICLE_BRAKE~ para frenar, o dar marcha atrás si la bici se ha detenido.
 
 [HELP32]
 Then fire using ~k~~PED_FIREWEAPON~.
@@ -323,43 +323,43 @@ Then fire using ~k~~PED_FIREWEAPON~.
 Then fire using ~k~~PED_LOCK_TARGET~.
 
 [TTUTOR]
-Press ~k~~TOGGLE_SUBMISSIONS~ to toggle taxi missions on or off.
+Pulsa ~k~~TOGGLE_SUBMISSIONS~ para activar o desactivar las misiones de taxi.
 
 [TTUTOR2]
-Press ~k~~TOGGLE_SUBMISSIONS~ to toggle taxi missions on or off.
+Pulsa ~k~~TOGGLE_SUBMISSIONS~ ppara activar o desactivar las misiones de taxi.
 
 [FTUTORA]
-Press ~k~~TOGGLE_SUBMISSIONS~ to toggle freight train missions on or off.
+Pulsa ~k~~TOGGLE_SUBMISSIONS~ para activar o desactivar las misiones de tren de carga.
 
 [FTUTORB]
-Press ~k~~TOGGLE_SUBMISSIONS~ to toggle freight train missions on or off.
+Pulsa ~k~~TOGGLE_SUBMISSIONS~ ppara activar o desactivar las misiones de tren de carga.
 
 [FTUTOR]
-Press ~k~~TOGGLE_SUBMISSIONS~ to toggle fire truck missions on or off.
+Pulsa ~k~~TOGGLE_SUBMISSIONS~ para activar o desactivar las misiones de bombero.
 
 [FTUTOR2]
-Press ~k~~TOGGLE_SUBMISSIONS~ to toggle fire truck missions on or off.
+Pulsa ~k~~TOGGLE_SUBMISSIONS~ para activar o desactivar las misiones de bombero.
 
 [CTUTOR]
-Press ~k~~TOGGLE_SUBMISSIONS~ to toggle Vigilante missions on or off.
+Pulsa ~k~~TOGGLE_SUBMISSIONS~ para activar o desactivar las misiones de vigilante.
 
 [CTUTOR2]
-Press ~k~~TOGGLE_SUBMISSIONS~ to toggle Vigilante missions on or off.
+Pulsa ~k~~TOGGLE_SUBMISSIONS~ para activar o desactivar las misiones de vigilante.
 
 [ATUTOR3]
-Press ~k~~TOGGLE_SUBMISSIONS~ to toggle Paramedic missions on or off.
+Pulsa ~k~~TOGGLE_SUBMISSIONS~ para activar o desactivar las misiones de paramédico.
 
 [BTUTOR1]
-Press ~k~~TOGGLE_SUBMISSIONS~ to toggle Burglary missions on or off.
+Pulsa ~k~~TOGGLE_SUBMISSIONS~ para activar o desactivar las misiones de ladrón de casas.
 
 [BTUTOR2]
-Press ~k~~TOGGLE_SUBMISSIONS~ to toggle Burglary missions on or off.
+Pulsa ~k~~TOGGLE_SUBMISSIONS~ para activar o desactivar las misiones de ladrón de casas.
 
 [PTUTORA]
-Press ~k~~TOGGLE_SUBMISSIONS~ to toggle pimping missions on or off.
+Pulsa ~k~~TOGGLE_SUBMISSIONS~ para activar o desactivar las misiones de pimping.
 
 [PTUTORB]
-Press ~k~~TOGGLE_SUBMISSIONS~ to toggle pimping missions on or off.
+Pulsa ~k~~TOGGLE_SUBMISSIONS~ para activar o desactivar las misiones de pimping.
 
 [HELP6_A]
 Press ~k~~VEHICLE_HANDBRAKE~ to apply the vehicle's back brake.
@@ -368,13 +368,13 @@ Press ~k~~VEHICLE_HANDBRAKE~ to apply the vehicle's back brake.
 Press ~k~~VEHICLE_HANDBRAKE~ to apply the vehicle's back brake.
 
 [HELP26]
-Press ~k~~VEHICLE_ENTER_EXIT~ to jump on the bike.
+Pulsa ~k~~VEHICLE_ENTER_EXIT~ para subir a la bicicleta.
 
 [HELP26B]
 Press ~k~~VEHICLE_ENTER_EXIT~ to exit a vehicle.
 
 [HELP27]
-Push ~k~~VEHICLE_STEERUP~ and ~k~~VEHICLE_STEERDOWN~, to shift your weight on the bike.
+Usa ~k~~VEHICLE_STEERUP~ y ~k~~VEHICLE_STEERDOWN~ para desplazar tu peso en la bicicleta.
 
 [HELP35]
 Use ~k~~VEHICLE_STEERLEFT~ and ~k~~VEHICLE_STEERRIGHT~ to steer the vehicle.
@@ -392,7 +392,7 @@ Press ~k~~GROUP_CONTROL_FWD~ or ~k~~GROUP_CONTROL_BWD~ to change the camera mode
 Press ~k~~PED_CYCLE_WEAPON_LEFT~ or ~k~~PED_CYCLE_WEAPON_RIGHT~ to cycle through your available weapons.
 
 [HELP21]
-Press ~k~~VEHICLE_ENTER_EXIT~ to jump on the bike.
+Pulsa ~k~~VEHICLE_ENTER_EXIT~ para subir a la bicicleta.
 
 [HELP21B]
 Press ~k~~VEHICLE_ENTER_EXIT~ to exit a vehicle.
@@ -401,7 +401,7 @@ Press ~k~~VEHICLE_ENTER_EXIT~ to exit a vehicle.
 Push ~k~~VEHICLE_ACCELERATE~ to ~h~accelerate.
 
 [HELP5_D]
-Use ~k~~VEHICLE_BRAKE~ to brake, or to reverse if the vehicle has stopped.
+Usa ~k~~VEHICLE_BRAKE~ para frenar o dar marcha atrás si el vehículo se ha detenido.
 
 [WINCH_V]
 Use ~k~~VEHICLE_TURRETUP~ and ~k~~VEHICLE_TURRETDOWN~ to move the winch close to a vehicle. ~N~Press ~k~~PED_FIREWEAPON~ to release.
@@ -416,13 +416,13 @@ To reply negatively press ~k~~CONVERSATION_NO~~n~To reply positively press ~k~~C
 Press ~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~ to change camera views. Use the mouse or right analog stick to raise and lower the game camera.
 
 [FUDHLP3]
-Press ~k~~PED_ANSWER_PHONE~ to view stats. This shows CJ's current condition. Whenever a stat changes it will appear at the top left of the screen.
+Pulsa ~k~~PED_ANSWER_PHONE~ para ver las estadísticas. Esto muestra la condición actual de CJ. Cuando una estadística cambie, dicho cambio se indicará en la parte superior izquierda de la pantalla.
 
 [INTRO2F]
 To pedal hold down ~k~~VEHICLE_ACCELERATE~.
 
 [INTRO2C]
-To pedal the bike faster repeatedly tap ~k~~VEHICLE_ACCELERATE~.
+Para pedalear más rápido con la bicicleta, pulsa repetidamente ~k~~VEHICLE_ACCELERATE~.
 
 [MEL_HLP]
 Press ~k~~PED_FIREWEAPON~ to perform a melee attack.
@@ -431,16 +431,16 @@ Press ~k~~PED_FIREWEAPON~ to perform a melee attack.
 Use the movement controls to move around in the water.
 
 [WZI2_A1]
-Tap ~k~~PED_SPRINT~ when swimming forwards to swim faster.
+Pulsa brevemente ~k~~PED_SPRINT~ cuando nades hacia delante para avanzar más rapido.
 
 [WZI2_A5]
-Press ~k~~PED_FIREWEAPON~ to dive underwater.
+Pulsa ~k~~PED_FIREWEAPON~ para bucear.
 
 [WZI2_A6]
 Hold down ~k~~PED_SPRINT~ to swim around underwater.
 
 [ATUTOR]
-Press ~k~~TOGGLE_SUBMISSIONS~ to toggle Paramedic missions on or off.
+Pulsa ~k~~TOGGLE_SUBMISSIONS~ para activar o desactivar las misiones de paramédico.
 
 [DNC_H1]
 ~k~~VEHICLE_ENTER_EXIT~ Hold to quit.
@@ -470,7 +470,7 @@ Use ~k~~GO_FORWARD~ and ~k~~GO_BACK~ to select a vehicle.
 Press ~k~~PED_SPRINT~ to buy a vehicle.
 
 [NITRO]
-All taxi's now have a boost jump! Just press ~k~~VEHICLE_HORN~.
+¡Ahora todos los taxis pueden saltar! Simplemente, pulsa ~k~~VEHICLE_HORN~.
 
 [CUT_D1]
 DATE 1A PIZZA
@@ -1202,10 +1202,10 @@ Object Placer Mode~N~Press ~r~H ~w~for Help
 TEXT-~1~
 
 [GIMPGOT]
-The gimp suit has been delivered to your wardrobe!
+Se ha llevado a tu ropero el traje de masoquista.
 
 [VAL_GOT]
-The valet uniform has been delivered to your wardrobe!
+Se ha llevado a tu ropero el uniforme de valet.
 
 [CRO_GOT]
 The croupier uniform has been delivered to your wardrobe!
@@ -1232,7 +1232,7 @@ You have worked out enough for today, come back tomorrow!
 You have reached your limit for today, come back tomorrow!
 
 [TAG_100]
-You tagged the city! Your gang has had an upgrade! Weapons delivered to CJ's house in Los Santos!
+¡Has pintado graffitis por toda la ciudad! ¡Tu pandilla obtiene una mejora! ¡Se han llevado armas a la casa de CJ en Los Santos!
 
 [FOTO100]
 All photos taken! Weapons delivered to the San Fierro garage!
@@ -1244,7 +1244,7 @@ All horseshoes collected! Weapons delivered to Four Dragons Casino!
 All oysters collected! Katie, Helena, Barbara and Michelle will always want you back, no matter how undesirable you are!
 
 [GAME100]
-100% achieved! Stats and cash have been boosted! Rhino and Hydra delivered to CJ's house in Grove Street.
+¡Obtenido el 100%! ¡Tus estadísticas y dinero mejoran! Se han llevado un Rhino y un Hydra a Grove Street.
 
 [STR_03]
 You need at least $100 for a private dance.
@@ -1328,10 +1328,10 @@ Chromer Bullbar
 Slamin Bullbar
 
 [SLABD1]
-Chromer Hood
+Cofre Cromer
 
 [SLABD2]
-Slamin Hood
+Cofre Slamin
 
 [BRDEXH1]
 Chromer Exhaust
@@ -1451,22 +1451,22 @@ Access
 Fast reload ability gained. You will now reload your weapons at a faster rate.
 
 [ANR_55]
-Check back later for new weapon challenges.
+Vuelve más tarde para encontrar nuevos desafíos de tiro.
 
 [ANR_56]
-A new weapon challenge is available.
+Hay un nuevo desafío de tiro disponible.
 
 [ANR_57]
-A new weapon challenge is available in the shooting range.
+Hay un nuevo desafío de tiro disponible en Ammu-nation.
 
 [PIMPSUT]
-Pimp Suit
+Traje de proxeneta
 
 [RDRIVER]
-Racing Suit
+Traje de piloto
 
 [PAMEDIC]
-Medic Uniform
+Uniforme de paramédico
 
 [BEEFY]
 Beefy Baron
@@ -1496,10 +1496,10 @@ Alpha
 Pro
 
 [SEXGOD]
-Pimping complete! Prostitutes will now pay YOU to have relations with them!
+¡Pimping completado! ¡Ahora las prostitutas te pagarán a ti para tener relaciones con ellas!
 
 [GF_0077]
-Oh no, she is not enjoying herself! Quick, get her something to eat, or maybe a drink...
+¡Maldición, no se lo está pasando bien! Rápido, llévala a comer algo, o invítale un trago...
 
 [GF_0078]
 She is getting bored. Try harder to find an area she likes!
@@ -1517,7 +1517,7 @@ Go and get a nice car for your girlfriend!
 Sold Out
 
 [MORTURF]
-~s~You need to take over more gang territories around Los Santos!
+~s~¡Tienes que hacerte con más territorios de pandillas por Los Santos!
 
 [SECRET]
 Use your camera to check out San Fierro - who knows what you might discover!
@@ -1556,7 +1556,7 @@ The Chiliad Challenge
 Dirt Ring
 
 [SLOT_02]
-~k~~VEHICLE_ENTER_EXIT~ Use Slot Machine $~1~
+~k~~VEHICLE_ENTER_EXIT~ Usar máquina tragamonedas: ~1~ $
 
 [VP19]
 HOLD
@@ -1574,7 +1574,7 @@ Off Road Wheel
 You've got to eat more to impress this lady, skinny boy!
 
 [GF_0075]
-You have put on too much muscle! What did you have for breakfast, steroids?
+¡Tienes demasiados músculos! ¿Qué has tomado de desayuno? ¿Esteroides?
 
 [GF_0076]
 You are driving too slowly!
@@ -1586,7 +1586,7 @@ You need more practice underwater before you can start this mission.
 The more you sprint, the higher your ~h~stamina~w~ will become, allowing you to exert yourself for longer.
 
 [INTROB]
-~s~Get on the bike.
+~s~Súbete a la bicicleta.
 
 [STATCAR]
 ~s~Your ~h~driving skill ~s~is not high enough to enter this race.
@@ -1595,7 +1595,7 @@ The more you sprint, the higher your ~h~stamina~w~ will become, allowing you to 
 ~s~Your ~h~bike skill ~s~is not high enough to enter this race.
 
 [STELF]
-Stealth can also be used outside of missions. You can sneak up behind people and perform stealth kills or use stealth to evade the police and enemy gang members.
+El sigilo también puede emplearse fuera de las misiones. Puedes acercarte sigilosamente por detrás de la gente y eliminarla en silencio, o usar el sigilo para evitar a la policía y a los miembros de las pandillas enemigas.
 
 [IE29]
 All Cars Collected!
@@ -1610,16 +1610,16 @@ Nearest air strip
 ~r~DANGER!~s~ Restricted air space!
 
 [SLOT_04]
-~k~~VEHICLE_ENTER_EXIT~ Buy Snack: $1
+~k~~VEHICLE_ENTER_EXIT~ Comprar refrigerio: 1 $
 
 [GF_H018]
 You've abused your girlfriend. Your date is over!
 
 [GUN1]
-Pistols
+Pistolas
 
 [GUN2]
-Shotguns
+Escopetas
 
 [GUN3]
 Micro SMGs
@@ -1628,7 +1628,7 @@ Micro SMGs
 SMG
 
 [GUN5]
-Assault
+Asalto
 
 [GUN6]
 Rifles
@@ -1652,7 +1652,7 @@ A spray can is now available from CJ's mom's house in Grove Street.
 You can visit Emmet's at any time to get a gun!
 
 [CORNRO2]
-Blonde Cornrow
+Trenzado Rubio
 
 [COLOUR2]
 color three ~1~ color four ~1~
@@ -1661,13 +1661,13 @@ color three ~1~ color four ~1~
 King in Exile
 
 [BUST_1]
-When you have a wanted level, the local police force will try to arrest you.
+Cuando tengas un nivel de busqueda, las fuerzas de la policía locales tratarán de arrestarte.
 
 [BUST_2]
-As your wanted level gets higher, different enforcement agencies will become involved and the likelihood of them trying to kill you will increase.
+A medida que el nivel de busqueda aumente, diferentes fuerzas de seguridad se unirán a la persecución, y será más probable que intenten matarte.
 
 [BUST_3]
-If you are arrested by law enforcement you will be processed at a local police precinct.
+Si te arresta la poli, te procesarán en la comisaría local.
 
 [BUST_4]
 The officers will strip you of your weapons and take some of your cash as a bribe.
@@ -2465,7 +2465,7 @@ Black Shades
 Black Rim
 
 [VP01]
-~k~~VEHICLE_ENTER_EXIT~ Play Video Poker
+~k~~VEHICLE_ENTER_EXIT~ Jugar la video poker
 
 [VP02]
 COIN VALUE
@@ -2486,7 +2486,7 @@ ROYAL FLUSH
 STRAIGHT FLUSH
 
 [VP08]
-FOUR OF A KIND
+POKER
 
 [VP09]
 FULL HOUSE
@@ -2522,31 +2522,31 @@ TICKET MACHINE
 DEPARTURE
 
 [PLA_3]
-MONDAY
+LUNES
 
 [PLA_4]
-TUESDAY
+MARTES
 
 [PLA_5]
-WEDNESDAY
+MIÉRCOLES
 
 [PLA_6]
-THURSDAY
+JUEVES
 
 [PLA_7]
-FRIDAY
+VIERNES
 
 [PLA_8]
-SATURDAY
+SÁBADO
 
 [PLA_9]
-SUNDAY
+DOMINGO
 
 [PLA_10]
 ~1~:~1~
 
 [PLA_13]
-DESTINATION
+DESTINO
 
 [PLA_14]
 LAS VENTURAS
@@ -2558,7 +2558,7 @@ SAN FIERRO
 LOS SANTOS
 
 [PLA_17]
-PRICE
+PRECIO
 
 [PLA_18]
 $~1~
@@ -2567,10 +2567,10 @@ $~1~
 SELECT
 
 [PLA_20]
-BUY
+COMPRAR
 
 [PLA_21]
-EXIT
+SALIR
 
 [PLA_22]
 ~<~~>~
@@ -3053,10 +3053,10 @@ Donut shop
 Meal
 
 [FOOD_M]
-~s~Each time you eat your fat stat increases, eat too much and you will become obese.
+~s~Cada vez que comes, tu gordura aumenta. Si comes demasiado, acabarás obeso.
 
 [FOOD1]
-~s~You cannot buy any more food at the moment, you will be unwell!
+~s~Por ahora no puedes comprar más comida: ¡te enfermaras!
 
 [BURGERS]
 Burger Shop(junkfud-WM)
@@ -3119,7 +3119,7 @@ Combat Shotgun
 Sawnoff Shotgun
 
 [BASEBAT]
-Baseball bat
+Bate de Béisbol
 
 [KNIFE]
 Knife
@@ -4223,16 +4223,16 @@ You stole $~1~ from the courier.
 ~s~Go to the abandoned airstrip and buy it.
 
 [DNC_001]
-Score:
+Puntuación:
 
 [DNC_002]
-~y~PERFECT
+~y~PERFECTO
 
 [DNC_003]
-~r~BAD
+~r~MAL
 
 [DNC_004]
-~b~GOOD
+~b~BIEN
 
 [DNC_005]
 ~w~Great timing!
@@ -4283,19 +4283,19 @@ Score:
 ~w~Got it!
 
 [DNC_021]
-~w~Acceptable!
+~w~¡Aceptable!
 
 [DNC_022]
 ~w~You're late!
 
 [DNC_023]
-~w~Slow down!
+~w~¡Más despacio!
 
 [DNC_024]
-~w~Random!
+~w~¡Aleatorio!
 
 [DNC_025]
-~w~Not on time!
+~w~¡No a tiempo!
 
 [DNC_026]
 ~w~Combo: ~1~X
@@ -4307,7 +4307,7 @@ Excitement:
 Power:
 
 [GF_0029]
-Fun:
+Diversión:
 
 [GF_0039]
 Your girlfriend is dead.
@@ -4373,10 +4373,10 @@ She seems happy enough. Now give her a run home!
 She likes you! Next time she might go a little further...
 
 [GF_0011]
-Way to go, Casanova, she's dumped you! Oh well, there are plenty more fish in the sea.
+¡Se acabó, Casanova, terminó contigo! Bueno, hay más peces en el mar.
 
 [GF_0012]
-Amateur! RULE No. 1 - NEVER drop a girl mid-date!
+¡Novato! REGLA No. 1: ¡NUNCA abandones a una chica en mitad de una cita!
 
 [GF_0014]
 This is it, she's inviting you in for coffee! Gird your loins for love...
@@ -4385,7 +4385,7 @@ This is it, she's inviting you in for coffee! Gird your loins for love...
 That's the spot! Remember; nice guys finish last!
 
 [GF_0022]
-She wants you to drive her home! This could be it...
+¡Quiere que la lleves a casa! Esta podría ser...
 
 [GF_0024]
 She wants to do a drive-by? This is one dangerous lady!
@@ -4400,7 +4400,7 @@ She wants to go stuff her face!
 She wants to cruise. Maybe she'll want to park up someplace...
 
 [GF_0028]
-She wants to check your dance moves! The ladies like a real mover!
+¡Quiere ver cómo te mueves! ¡A las damas les gustan los buenos bailarines!
 
 [GF_0031]
 Uh-oh. She sounds bored. Quick, do something fun!
@@ -4418,19 +4418,19 @@ You have no idea how to treat a lady!
 Make a bit more of an effort next time!
 
 [GF_0041]
-You blew it! What is wrong with you?
+¡Lo arruinaste! ¿Qué pasa contigo?
 
 [GF_0042]
 You the man! Oh yeah! You the man!
 
 [GF_0044]
-Here we go with the kinky shit...
+Ahí vamos con las cosas pervertidas...
 
 [GF_0045]
 You better let her drive or she'll sulk all through the date...
 
 [GF_0047]
-She stole your car! You two have so much in common...
+¡Te ha robado el auto! Se nota que los dos tienen mucho en común...
 
 [GF_0050]
 This area seems to suit her...
@@ -4460,7 +4460,7 @@ She doesn't look very impressed...
 You're starting to impress the lady!
 
 [GF_0059]
-She's hooked on your moves, Mr. Groove!
+¡La tienes encantada con tus movimientos, Travolta!
 
 [GF_0060]
 You're an embarrassment on the dance floor.
@@ -4475,7 +4475,7 @@ She's desperate for satisfaction!
 You picked her kind of place!
 
 [GF_0064]
-Step up, holmes, she wants to dance!
+¡Vamos, colega, que quiere bailar!
 
 [GF_0065]
 She REALLY liked that place!
@@ -4490,16 +4490,16 @@ Failure to satisfy a woman is a CRIME!
 She doesn't sound too pissed - she must have such low self esteem!
 
 [GF_0069]
-Time to park up and get to first base!
+¡Hora de aparcar y llegar a primera base!
 
 [GF_0070]
-What were you thinking? this place is a dump!
+¿En qué estás pensando? ¡Este sitio es un basurero!
 
 [GF_0071]
-Fastest way to a woman's heart - gifts and flattery!
+La forma más rápida de ganarse el corazón de una mujer: ¡regalos y cumplidos!
 
 [GF_0072]
-Oh man. RULE No.2: Try not to make your girl bleed on a date!
+Oh, viejo. REGLA No. 2: ¡intenta evitar que tu chica sangre durante una cita!
 
 [HJSTAT]
 Distance: ~1~.~1~m Height: ~1~.~1~m Flips: ~1~ Rotation: ~1~|
@@ -4817,7 +4817,7 @@ BROWN THUNDER
 ~r~You need an empty car to start taxi missions.
 
 [HMLS_01]
-Hey buddy, spare a dollar?
+Ey, amigo, ¿tienes un dólar?
 
 [HMLS_02]
 C'mon you must have something you can give me?
@@ -4829,7 +4829,7 @@ Hey man, got anything to drink?
 Please don't kill me!
 
 [BURG_04]
-Somebody help there's a strange man in my house!
+¡Socorro, hay un extraño en mi casa!
 
 [BURG_05]
 I'm not letting you just walk in here and take my stuff without a fight.
@@ -4949,112 +4949,112 @@ reps
 distance
 
 [GYM1_4]
-level
+Nivel
 
 [GYM1_6]
 incline
 
 [GYM1_8]
-40 lbs
+40 libras
 
 [GYM1_9]
-60 lbs
+60 libras
 
 [GYM1_10]
-80 lbs
+80 libras
 
 [GYM1_11]
-100 lbs
+100 libras
 
 [GYM1_12]
-120 lbs
+120 libras
 
 [GYM1_13]
-160 lbs
+160 libras
 
 [GYM1_14]
-200 lbs
+200 libras
 
 [GYM1_15]
-240 lbs
+140 libras
 
 [GYM1_16]
-280 lbs
+280 libras
 
 [GYM1_17]
-320 lbs
+320 libras
 
 [GYM1_26]
-20 lbs
+20 libras
 
 [GYM1_27]
-30 lbs
+30 libras
 
 [GYM1_28]
-40 lbs
+40 libras
 
 [GYM1_29]
-50 lbs
+50 libras
 
 [GYM1_30]
-60 lbs
+60 libras
 
 [GYM1_31]
-70 lbs
+70 libras
 
 [GYM1_32]
-80 lbs
+80 libras
 
 [GYM1_33]
-90 lbs
+90 libras
 
 [GYM1_34]
-100 lbs
+100 libras
 
 [GYM1_35]
-110 lbs
+110 libras
 
 [GYM1_45]
-Do not allow your power bar to empty or you will fall off the treadmill.
+No dejes que tu barra de resistencia se vacíe o te caerás de la máquina de correr.
 
 [GYM1_61]
-Level 1
+Nivel 1
 
 [GYM1_62]
-Level 2
+Nivel 2
 
 [GYM1_63]
-Level 3
+Nivel 3
 
 [GYM1_64]
-Level 4
+Nivel 4
 
 [GYM1_65]
-Level 5
+Nivel 5
 
 [GYM1_66]
-Level 6
+Nivel 6
 
 [GYM1_67]
-Level 7
+Nivel 7
 
 [GYM1_68]
-Level 8
+Nivel 8
 
 [GYM1_69]
-Level 9
+Nivel 9
 
 [GYM1_70]
-Level 10
+Nivel 10
 
 [GYM1_72]
-Weight
+Peso
 
 [GYM1_89]
-Level
+Nivel
 
 [DUAL_A]
-~k~~VEHICLE_ENTER_EXIT~ Use Videogame
+~k~~VEHICLE_ENTER_EXIT~ Jugar videojuego
 
 [VAL_A9]
 ~r~You strayed too far.
@@ -5063,10 +5063,10 @@ Level
 Vehicle Price: $~1~
 
 [IE07]
-~r~You don't have enough cash!
+~r~¡No tienes suficiente dinero!
 
 [IE08]
-Your new vehicle is on the container ship.
+Tu nuevo vehículo está en el carguero.
 
 [SAVE_G]
 You can save your progress by entering CJ's house.
@@ -5081,7 +5081,7 @@ Walk into the red marker to continue.
 Drive your vehicle onto the red marker.
 
 [WANT_L]
-Your wanted level has been suspended, if you commit a crime whilst the stars are flashing your full wanted level will be reinstated.
+Tu nivel de busqueda ha sido suspendido: si cometes un crimen mientras las estrellas estén parpadeando, recuperarás todo tu nivel de búsqueda.
 
 [HELP3B]
 You can only cycle fast or sprint for a limited amount of time.
@@ -5093,22 +5093,22 @@ The more exercise you get the higher your ~h~stamina~w~ will become, allowing yo
 Come back here to take the trucker missions.
 
 [DEAL1]
-You want some stuff?
+¿Quieres algo?
 
 [DEAL1Y]
 No. Please leave now.
 
 [DEAL1N]
-Fuck off and die!
+¡Ve y muérete!
 
 [DEAL2]
-Take it easy man.
+Tómatelo con calma, viejo.
 
 [DEAL3]
 Fuck you man!
 
 [AP_0001]
-This is a restricted area - skilled pilots only!
+Ésta es una zona restringida, ¡solo para pilotos habilidosos!
 
 [AP_0002]
 They'll give pilot licenses to anybody these days!
@@ -5117,7 +5117,7 @@ They'll give pilot licenses to anybody these days!
 You need a higher Flying Skill stat to access the airport. The Pilot School can help you get better.
 
 [LOWR1]
-Player
+Jugador
 
 [LOWR2]
 Opposition
@@ -5141,7 +5141,7 @@ Opposition
 You have earned some respect! If you earn enough respect you will gain the ability to recruit gang members.
 
 [HELP101]
-Respect can be earned be passing certain missions, killing rival gangs members, gaining territory and tagging.
+El respeto se gana superando ciertas misiones, matando a miembros de pandillas enemigas, obteniendo territorio y marcando graffitis.
 
 [SAVE_G2]
 You can save a vehicle by parking it in the garage.
@@ -5171,10 +5171,10 @@ BMX stunts(stunt-CR)
 Dancing(dance-CC)
 
 [VAL_90]
-~S~Get a valet uniform to work as a valet.
+~s~Hazte con un uniforme de valet para trabajar como tal.
 
 [ANR_44]
-~s~Congratulations, you've mastered that weapon. Now let's see you try with another.
+~s~Felicidades, has dominado esa arma. Repite el desafío con un arma diferente.
 
 [ANR_45]
 ~s~You've completed the Ammu-Nation challenge.
@@ -5204,7 +5204,7 @@ AK47 ~n~Round 3
 Micro SMG Challenge Passed
 
 [SAVE]
-To save the game, pick up the diskette icon. Saving the game will advance time by 6 hours.
+Para guardar la partida, camina hasta el icono del disket. Al guardar una partida, en el juego pasarán 6 horas.
 
 [INT_CJ1]
 Go inside CJ's house to continue.
@@ -5228,7 +5228,7 @@ When you eat, you gain energy but eat too much and you will become fat.
 ~k~~CONVERSATION_YES~ YES or ~k~~CONVERSATION_NO~ NO
 
 [INTRO2E]
-~s~Get on the ~b~bike~s~.
+¡~s~Súbete a la ~b~bicicleta~s~!
 
 [CS2_11]
 ~s~ALARM BELLS RINGING
@@ -5282,7 +5282,7 @@ Keep an eye on the blue bar if you are diving under water.
 Swim back up to the surface to get your breath back. The breath meter will slowly increase back to its maximum.
 
 [BC4_1]
-~s~Find a car to race and meet up with ~b~Cesar~s~ at the race start.
+~s~Encuentra un auto para competir y reúnete con ~b~César~s~ en la salida de la carrera.
 
 [BC4_2]
 ~s~You need a car to race with.
@@ -5294,25 +5294,25 @@ Swim back up to the surface to get your breath back. The breath meter will slowl
 ~s~Get over to ~b~Cesar~s~ at the race start.
 
 [BC4_5]
-~s~Get a race car and get to the ~y~start line~s~.
+~s~Consigue un auto apto para las carreras y dirígete a la ~y~línea de salida~s~.
 
 [BC4_6]
 ~s~Get to the race ~y~location~s~.
 
 [AMBUL_M]
-PARAMEDIC
+PARAMÉDICO
 
 [A_TIME]
-+~1~ seconds
++~1~ segundos
 
 [FIRE_M]
-~y~FIREFIGHTER
+~y~BOMBERO
 
 [FIRELVL]
-~s~Fire Truck Mission level ~1~
+~s~Nivel ~1~ de misión de bombero.
 
 [VAL_HLP]
-~s~Enter the marker at the valet carport to trigger Valet missions.
+~s~Entra en el marcador de la zona del valet parking para activar las misiones de éstos.
 
 [ANR_1]
 Test your skills in the Ammu-Nation shooting range challenge.
@@ -5467,34 +5467,34 @@ TIME LEFT
 ~s~Ambulance full!!
 
 [A_FAIL2:AMBULAE]
-~r~Your lack of urgency has been fatal to the patient!
+~r~¡Tu falta de urgencia fue fatal para el paciente!
 
 [A_FAIL3:AMBULAE]
 ~r~The patient is dead!!
 
 [A_PASS:AMBULAE]
-Rescued!
+¡Rescatado!
 
 [A_COMP2:AMBULAE]
 You will never get tired!
 
 [A_CANC:AMBULAE]
-~r~Paramedic mission cancelled!
+~r~¡Misión de paramédico cancelada!
 
 [ALEVEL:AMBULAE]
-Paramedic Mission Level ~1~
+Nivel ~1~ de misión de paramédico
 
 [A_FAIL1:AMBULAE]
-Paramedic mission ended
+La misión de paramédico ha terminado.
 
 [A_SAVES:AMBULAE]
 PEOPLE SAVED: ~1~
 
 [A_COMP1:AMBULAE]
-Paramedic missions complete: $~1~
+Misiones de paramédico completadas: ~1~ $
 
 [AMBSEAT:AMBULAE]
-SEATS FREE
+LUGARES LIBRES
 
 {=================================== MISSION TABLE BCESAR2 ===================================}
 
@@ -5685,7 +5685,7 @@ When using the camera, press ~k~~PED_SNIPER_ZOOM_IN~ to zoom in, or press ~k~~PE
 ~s~Take ~r~him ~s~out!
 
 [BCR1_16:BCRASH1]
-~r~The buzzards got him!
+~r~¡Ya es comida para los buitres!
 
 [BCR1_17:BCRASH1]
 ~s~Take the camera to the ~y~drop~s~.
@@ -6254,10 +6254,10 @@ You'll need something heavy to smash this dynamite crate.
 ~r~You blew up the dynamite.
 
 [PD_10:CASINO2]
-Security is blocking the exit.
+Los guardias están bloqueando la salida.
 
 [PD_11:CASINO2]
-~s~Use the ~b~dirt bike ~s~and find another way out!
+~s~¡Usa la ~b~motocicleta de trial ~s~y busca una salida!
 
 [PD_12:CASINO2]
 ~s~Now collect the ~r~Dynamite~s~!
@@ -6266,7 +6266,7 @@ Security is blocking the exit.
 ~s~Go to the ~y~Quarry~s~.
 
 [PD_18:CASINO2]
-~r~The bike was destroyed!
+~r~¡La motocicleta ha sido destruida!
 
 [PD_19:CASINO2]
 ~r~The dynamite has been destroyed!
@@ -6275,7 +6275,7 @@ Security is blocking the exit.
 The dynamite is rigged to blow!
 
 [PD_21:CASINO2]
-Get it before the workers destroy it.
+Róbala antes de que los trabajadores la destruyan.
 
 [PD_22:CASINO2]
 ~s~Get back home with the dynamite.
@@ -7311,7 +7311,7 @@ Final Lap
 {=================================== MISSION TABLE DSERT10 ===================================}
 
 [DE10_01:DSERT10]
-~s~Fly the jet pack to the ~g~train~s~, and steal whatever they least want you to get.
+~s~Vuela con el JetPack hasta el ~g~tren~s~ y roba lo que estén protegiendo.
 
 [DE10_02:DSERT10]
 ~s~That's the right one! Grab the ~g~jar of green goo.
@@ -7823,19 +7823,19 @@ When goggles are selected, press ~k~~PED_FIREWEAPON~ to toggle thermal vision on
 Press ~k~~PED_SPRINT~ to increase thrust - this will make you ascend.
 
 [DST8_28:DSERT8]
-To move in a direction with the jet pack use the movement controls while in the air.
+Para moverte en una dirección con el Jetpack, usa los controles de movimiento mientras estés en el aire.
 
 [DST8_29:DSERT8]
 To descend quickly press ~k~~PED_JUMPING~.
 
 [DST8_30:DSERT8]
-To strafe right while in the jetpack press ~k~~GO_RIGHT~.
+Para desplazarte lateralmente a la derecha mientras usas el Jetpack, pulsa ~k~~GO_RIGHT~.
 
 [DST8_31:DSERT8]
-To strafe left while in the jetpack press ~k~~GO_LEFT~.
+Para desplazarte lateralmente a la izquierda mientras usas el Jetpack, pulsa ~k~~GO_LEFT~.
 
 [DST8_32:DSERT8]
-To hover in the jetpack hold down ~k~~PED_CYCLE_WEAPON_RIGHT~ and ~k~~PED_CYCLE_WEAPON_LEFT~.
+Para quedarte estático con el Jetpack, mantén ~k~~PED_CYCLE_WEAPON_RIGHT~ y ~k~~PED_CYCLE_WEAPON_LEFT~.
 
 [DES8_32:DSERT8]
 Press ~k~~PED_SPRINT~ to ascend vertically.
@@ -7904,16 +7904,16 @@ You can use stealth to avoid patrols or climb to the top of a control tower and 
 ~s~Collect the ~g~keycard ~S~and open the ~y~door ~s~to the Black Project.
 
 [DST8_26:DSERT8]
-~s~You've found what The Truth wanted. You must escape by using the Jet pack to fly out of the ~y~launch bay ~s~directly above you.
+~s~Has encontrado lo que quería Truth. Tienes que escapar usando el Jetpack para salir volando fuera del ~y~compartimento de lanzamiento ~s~que hay justo encima de ti.
 
 [DST8_33:DSERT8]
-You can fire a single-handed weapon as normal while piloting the jetpack.
+Puedes disparar un arma de mano con normalidad mientras pilotas el Jetpack.
 
 [DST8_34:DSERT8]
 ~s~The ~g~Black Project ~s~is located at the bottom of the launch bay.
 
 [DST8_35:DSERT8]
-~s~Deliver the jetpack to a ~y~drop off point ~s~deep in the canyons.
+~s~Deja el Jetpack en un ~y~punto de entrega ~s~en la profundidad de los cañones.
 
 [DST8_1:DSERT8]
 ~s~The Truth wants you to gain entry to the Area 69 research lab and bring back to him the Black Project that is being developed inside.
@@ -7988,7 +7988,7 @@ You have now made it into area51. This is a large military/research facility man
 Use stealth and quick thinking to get past the guards whenever possible. If you get spotted look for dark areas to hide in.
 
 [DES8_17:DSERT8]
-The jet pack is located in the research lab at the rear of the installation.
+El Jetpack está en el laboratorio de investigación de la parte de atrás de la instalación.
 
 [DES8_18:DSERT8]
 Possible intruder DEFCON RED ALERT soldiers take up patrol positions. Everyone on high alert.
@@ -8003,7 +8003,7 @@ Level 2 Keycard Acquired
 SAM site disabled
 
 [DES8_22:DSERT8]
-The door to the jetpack will not open you will need to get a level 2 keycard. A scientist nearby may have it.
+La puerta que da al Jetpack no se abrirá. Necesitas una tarjeta de seguridad de nivel 2. Puede que la tenga un científico cercano.
 
 [DES8_23:DSERT8]
 You have the keycard now open the door!
@@ -8012,7 +8012,7 @@ You have the keycard now open the door!
 Intruder is over here!
 
 [DES8_25:DSERT8]
-You now have the jetpack! Deliver it back to the airstrip.
+¡Ahora tienes el Jetpack! Llévala a la pista de aterrizaje.
 
 [DES8_28:DSERT8]
 The doors have now closed! Get back to the ~y~control tower ~w~to switch them on again.
