@@ -1,11 +1,11 @@
 ﻿[IN_VEH]
-~g~Hey! Get back in the vehicle!
+~g~¡Ey! ¡Vuelve al vehículo!
 
 [HEY]
-~g~Don't go solo, keep your posse together!
+~g~¡No vayas solo, mantén tu grupo unido!
 
 [HELP3]
-You can only sprint for short periods before becoming tired.
+Solo puedes esprintar durante un tiempo antes de cansarte.
 
 [HELP4_D]
 Push the right analog stick up to ~h~accelerate.
@@ -14,43 +14,43 @@ Push the right analog stick up to ~h~accelerate.
 Pull the right analog stick back to brake, or to reverse if the vehicle has stopped.
 
 [HELP7_A]
-Press and hold the~h~ ~k~~PED_LOCK_TARGET~ button ~w~to ~h~target~w~ with the sniper rifle.
+Usa y mantén~h~ ~k~~PED_LOCK_TARGET~ ~w~para ~h~apuntar~w~ con el rifle.
 
-[HELP7_D]
-Press and hold the~h~ ~k~~PED_LOCK_TARGET~ button ~w~to ~h~target ~w~with the sniper rifle.
+[HELP7_A]
+Usa y mantén~h~ ~k~~PED_LOCK_TARGET~ ~w~para ~h~apuntar~w~ con el rifle.
 
 [HELP10]
-This badge indicates you have a police wanted level.
+Esta insignia indica que tienes un nivel de búsqueda.
 
 [HELP11]
-The more badges the higher your wanted level.
+Cuantas más insignias, mayor será el nivel de búsqueda.
 
 [HELP13]
-Sometimes you may need to use pathways not shown on the radar.
+A veces, es posible que debas utilizar caminos que no se muestran en el radar.
 
 [TIMER]
-This is a timed mission, you must complete it before the timer counts down to zero.
+Esta es una misión cronometrada, debes completarla antes de que el temporizador llegue a cero.
 
 [HORN]
-~g~Sound the horn.
+~g~Haz sonar el claxon.
 
 [NOMONEY]
-~g~You need more cash!
+~g~¡Necesitas más dinero!
 
 [REWARD]
-REWARD $~1~
+RECOMPENSA $~1~
 
 [M_FAIL]
-MISSION FAILED!
+¡MISIÓN FRACASADA!
 
 [M_PASS]
-MISSION PASSED! $~1~
+¡MISIÓN SUPERADA! $~1~
 
 [DEAD]
-WASTED!
+¡ELIMINADO!
 
 [BUSTED]
-BUSTED!
+¡ARRESTADO!
 
 [WEATHE1]
 FORCE WEATHER SUNNY
@@ -1820,7 +1820,7 @@ Whoa! I don't touch nothing THAT hot!
 Come back when you're not so busy...
 
 [HELP9_C]
-Press the~h~ ~k~~PED_FIREWEAPON~ ~w~button to ~h~fire~w~ the sniper rifle.
+Usa~h~ ~k~~PED_FIREWEAPON~ ~w~para ~h~disparar~w~ con el rifle.
 
 [TAXI2]
 ~r~You're out of time!
@@ -2420,7 +2420,7 @@ Cinematic Camera
 New engine and paint job. The cops won't recognize you!
 
 [HELP15]
-When on foot press the ~h~~k~~PED_LOOKBEHIND~ ~w~button to ~h~look behind~w~.
+Cuando vayas a pie, usa ~h~~k~~PED_LOOKBEHIND~ ~w~para ~h~mirar atrás~w~.
 
 [FEC_LB4]
 Look behind (R3 button)
@@ -3917,31 +3917,31 @@ Best Percentage of hits for Shooter
 Number of drug deals made
 
 [HELP24]
-You can now take jobs from the Colonel.
+Ahora puedes aceptar trabajos del Coronel.
 
 [HELP25]
-You can now take jobs from Avery Carrington.
+Ahora puedes aceptar trabajos de Avery Carrington.
 
 [HELP29]
-You can visit the clothes store when you're not on a mission.
+Puedes visitar la tienda de ropa cuando no estés en una misión.
 
 [HELP30]
-When you buy new clothes your wanted level will be set to zero.
+Cuando compres ropa nueva, tu nivel de búsqueda desaparecerá.
 
 [ASM4_24]
-distance:
+Distancia:
 
 [RBM1_6]
 ~g~Take Mercedes and the 'Love Juice' to the band at the recording studio.
 
 [RBM1_3]
-NO LONGER NEEDED
+YA NO ES NECESARIO
 
 [HAM1_5]
-NO LONGER NEEDED
+YA NO ES NECESARIO
 
 [RBM1_11]
-NO LONGER NEEDED
+YA NO ES NECESARIO
 
 [HELP31]
 To do a drive-by, first look left or right using the ~h~~k~~VEHICLE_LOOKLEFT~~w~ or the ~h~~k~~VEHICLE_LOOKRIGHT~.
@@ -3953,7 +3953,7 @@ You must have a sub machine gun to perform a drive-by.
 ~r~Not enough cash, you cheap sleazebag.
 
 [EXIT_1]
-Press the ~h~~k~~PED_SPRINT~ ~w~button to exit.
+Usa ~h~~k~~PED_SPRINT~ ~w~para salir.
 
 [ASM1_B]
 Your next job is taped under the phone.
