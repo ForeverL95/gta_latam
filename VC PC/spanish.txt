@@ -1397,100 +1397,100 @@ You don't have enough cash.
 You got all of them. Here's a little something...
 
 [FEM_ON]
-ON
+SÍ
 
 [FEM_OFF]
-OFF
+NO
 
 [FEM_YES]
-Yes
+Sí
 
 [FEM_NO]
 No
 
 [FEC_NA]
-NA
+Na
 
 [FEC_CWL]
-Cycle Weapon left
+Cambiar Arma (Izq)
 
 [FEC_CWR]
-Cycle Weapon right
+Cambiar Arma (Dcha)
 
 [FEC_LOF]
-Look forward
+Mirar Adelante
 
 [FEC_TAR]
-Target
+Objetivo
 
 [FEC_MOV]
-Movement
+Movimiento
 
 [FEC_CAM]
-Camera modes
+Tipo de Cámara
 
 [FEC_PAU]
-Pause
+Pausa
 
 [FEC_ENV]
-Enter vehicle
+Entrar en Vehículo
 
 [FEC_JUM]
-Jump
+Saltar
 
 [FEC_ATT]
-Attack or Fire weapon
+Atacar o Disparar
 
 [FEC_RUN]
-Run
+Correr
 
 [FEC_FPC]
-First person camera
+Cámara en 1ra Persona
 
 [FEC_LL]
-Look left
+Mirar Izquierda
 
 [FEC_LB]
-Look behind
+Mirar Atrás
 
 [FEC_LR]
-Look right
+Mirar Derecha
 
 [FEC_HOR]
-Horn
+Claxon
 
 [FEC_VES]
-Vehicle control
+Control de Vehículo
 
 [FEC_BRA]
-Brake or Reverse
+Freno o Reversa
 
 [FEC_HAB]
-Hand brake
+Freno de Mano
 
 [FEC_CAW]
-Car weapon
+Arma de Vehículo
 
 [FEC_ACC]
-Accelerate
+Acelerar
 
 [FEC_CCF]
-Configuration
+Configuración
 
 [FEC_CF1]
-Setup 1
+Estilo 1
 
 [FEC_CF2]
-Setup 2
+Estilo 2
 
 [FEC_CF3]
-Setup 3
+Estilo 3
 
 [FEC_CF4]
-Setup 4
+Estilo 4
 
 [FEC_CDP]
-Controller Display
+Controlador de Pantalla
 
 [FEC_ONF]
 A Pie
@@ -1541,7 +1541,7 @@ Show Ped Road Groups
 Show Car Road Grups
 
 [FED_SCZ]
-Show Cull Zones
+Mostrar Cull Zones
 
 [FED_DSR]
 Debug Streaming Requests
@@ -1550,7 +1550,7 @@ Debug Streaming Requests
 gbShowCollisionPolys
 
 [PL_STAT]
-Player stats
+Estadístidas de Jugador
 
 [PE_WAST]
 Personas que eliminaste
@@ -1766,7 +1766,7 @@ Boatyard
 SetUp 1. Enabled
 
 [GMSAVE]
-Save Game
+Guardar Partida
 
 [FEDS_TB]
 Volver
@@ -1775,10 +1775,10 @@ Volver
 de
 
 [FEC_TUC]
-Turret control
+Control de Torreta
 
 [FEC_RS3]
-Radio station cycle (L3 button)
+Cambiar Estación de Radio (L3)
 
 [FEC_HO3]
 Claxon (L3)
@@ -1832,22 +1832,22 @@ Health delivered to hideout
 Adrenaline delivered to hideout
 
 [FESZ_CA]
-Cancel
+Cancelar
 
 [FES_NGA]
-New Game
+Nueva Partida
 
 [FES_CAN]
-Cancel
+Cancelar
 
 [FESZ_QL]
-All unsaved progress in your current game will be lost. Proceed with loading?
+Todo el progreso no guardado se perderá. ¿Continuar con la carga?
 
 [FESZ_QD]
-Proceed with deleting this save game?
+¿Continuar con la eliminación de ésta partida?
 
 [FESZ_QO]
-Proceed with overwriting this save game?
+¿Continuar con la sobrescritura de ésta partida?
 
 [T4X4_1]
 'PCJ Playground'
@@ -2363,7 +2363,7 @@ Underboss
 Capo
 
 [RATNG49]
-Boss
+Jefe
 
 [RATNG50]
 Kingpin
@@ -2372,7 +2372,7 @@ Kingpin
 Don
 
 [RATNG52]
-Godfather
+Padrino
 
 [PAGE_00]
 .
@@ -2393,7 +2393,7 @@ Distance: ~1~.~1~m Height: ~1~.~1~m Flips: ~1~ Rotation: ~1~_
 Distance: ~1~.~1~m Height: ~1~.~1~m Flips: ~1~ Rotation: ~1~_ And what a great landing!
 
 [ATUTOR]
-Press the ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~button to toggle Paramedic missions on or off.
+Usa ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~para iniciar o terminar las misiones de paramédico.
 
 [FEST_HA]
 Highest Paramedic Mission level
@@ -2408,7 +2408,7 @@ Distance: ~1~ft Height: ~1~ft Flips: ~1~ Rotation: ~1~_
 Distance: ~1~ft Height: ~1~ft Flips: ~1~ Rotation: ~1~_ And what a great landing!
 
 [CINCAM]
-Cinematic Camera
+Cámara Cinemática
 
 [RC4]
 'RUMPO RAMPAGE'
@@ -2423,7 +2423,7 @@ New engine and paint job. The cops won't recognize you!
 Cuando vayas a pie, usa ~h~~k~~PED_LOOKBEHIND~ ~w~para ~h~mirar atrás~w~.
 
 [FEC_LB4]
-Look behind (R3 button)
+Mirar Atrás (R3)
 
 [PERPIC]
 Hidden Packages found
@@ -2435,7 +2435,7 @@ Hidden Package ~1~ of ~1~
 You cannot store any more cars in this garage.
 
 [CHEAT1]
-Cheat activated
+Truco activado
 
 [CHEAT2]
 Weapon cheat
@@ -2459,7 +2459,7 @@ Weather cheat
 ALL UNIQUE STUNTS COMPLETED!
 
 [JAN]
-Jan
+Ene
 
 [FEB]
 Feb
@@ -2468,7 +2468,7 @@ Feb
 Mar
 
 [APR]
-Apr
+Abr
 
 [MAY]
 May
@@ -2480,7 +2480,7 @@ Jun
 Jul
 
 [AUG]
-Aug
+Ago
 
 [SEP]
 Sept
@@ -2492,7 +2492,7 @@ Oct
 Nov
 
 [DEC]
-Dec
+Dic
 
 [DEFDT]
 --:---:---- --:--:--
@@ -2501,16 +2501,16 @@ Dec
 ~g~BONUS DE ~1~$
 
 [HORN1]
-Press the ~h~~k~~VEHICLE_HORN~ ~w~button to activate the ~h~horn.
+Usa ~h~~k~~VEHICLE_HORN~ ~w~para activar el ~h~claxon.
 
 [HORN2]
-Press the ~h~~k~~VEHICLE_HORN~ ~w~button to activate the ~h~horn
+Usa ~h~~k~~VEHICLE_HORN~ ~w~para activar el ~h~claxon.
 
 [HORN3]
-Press the ~h~~k~~VEHICLE_HORN~ ~w~button to activate the ~h~horn
+Usa ~h~~k~~VEHICLE_HORN~ ~w~para activar el ~h~claxon.
 
 [FEC_EXV]
-Enter and exit vehicle
+Entrar/Salir de Vehículo
 
 [TAXI_M]
 'TAXISTA'
@@ -2519,10 +2519,10 @@ Enter and exit vehicle
 'VIGILANTE'
 
 [FIRE_M]
-'FIREFIGHTER'
+'BOMBERO'
 
 [AMBUL_M]
-'PARAMEDIC'
+'PARAMÉDICO
 
 [HJ_IS]
 INSANE STUNT BONUS: $~1~
@@ -2588,7 +2588,7 @@ Viva la revolution!
 THE COLONEL MISSIONS
 
 [GEN3_4]
-Tommy Vercetti. Let's go...
+Tommy Vercetti. Vamos...
 
 [GEN3_13]
 What's the matter with you man?! Get on the roof across the yard before they turn up!
@@ -3398,103 +3398,103 @@ Auriculares
 NO HAY HARDWARE DE AUDIO
 
 [FET_APP]
-APPLY
+APLICAR
 
 [FES_SKN]
-SKIN NAME
+NOMBRE
 
 [FES_DAT]
-DATE
+FECHA
 
 [FES_SET]
-Use Skin
+Usar Apariencia
 
 [FET_DEF]
-Restore Defaults
+Reiniciar Ajustes
 
 [FESZ_QZ]
 Are you sure you want to save this game?
 
 [FES_SCG]
-Save the current game?
+¿Guardar la partida actual?
 
 [FES_LCG]
-Load the game and continue playing?
+¿Cargar la partida y seguir jugando?
 
 [FEC_FIR]
-Fire
+Disparar
 
 [FEC_NWE]
-Next weapon
+Arma Siguiente
 
 [FEC_PWE]
-Previous weapon
+Arma Anterior
 
 [FEC_FOR]
-Forward
+Avanzar
 
 [FEC_BAC]
-Backwards
+Retroceder
 
 [FEC_LEF]
-Left
+Izquierda
 
 [FEC_RIG]
-Right
+Derecha
 
 [FEC_ZIN]
-Zoom in
+Aumentar Zoom
 
 [FEC_ZOT]
-Zoom out
+Alejar Zoom
 
 [FEC_EEX]
-Enter+exit
+Entrar+Salir
 
 [FEC_RAD]
 Radio
 
 [FEC_SUB]
-Sub-mission
+Misión Secundaria
 
 [FEC_CMR]
-Change camera
+Cambiar Cámara
 
 [FEC_JMP]
-Jump
+Saltar
 
 [FEC_SPN]
-Sprint
+Esprintar
 
 [FEC_HND]
-Handbrake
+Freno de Mano
 
 [FEC_LOL]
-Look left
+Mirar Izquierda
 
 [FEC_LOR]
-Look right
+Mirar Derecha
 
 [FEC_NTR]
-Next target
+Objetivo Siguiente
 
 [FEC_PTT]
-Previous target
+Obejtivo Anterior
 
 [FEC_LBA]
-Look behind
+Mirar Atrás
 
 [FEC_CEN]
-Center camera
+Centrar Cámara
 
 [FET_CFT]
-ON FOOT
+A PIE
 
 [FET_CCR]
-IN CAR
+EN VEHÍCULO
 
 [FET_CAC]
-ACTION
+ACCIÓN
 
 [FEC_IBT]
 -
@@ -3506,34 +3506,34 @@ MXB1
 MXB2
 
 [FEC_UNB]
-UNBOUND
+SIN DEFINIR
 
 [FEC_TFL]
-Look left+Turret L
+Mirar Izq+Torreta Izq
 
 [FEC_TFR]
-Look right+Turret R
+Mirar Dcha+Torreta Dcha
 
 [FEC_MWF]
-MS WHEEL UP
+RUEDA ARRIBA
 
 [FEC_MWB]
-MS WHEEL DN
+RUEDA ABAJO
 
 [FEC_ORR]
-or
+o
 
 [FEC_NUS]
-NOT USED
+NO USADO
 
 [FEC_LUD]
-Look Up
+Mirar Arriba
 
 [FEC_LDU]
-Look Down
+Mirar Abajo
 
 [FEC_CMP]
-COMBO: LOOK L+R
+COMBO: MIRAR IZQ+DCHA
 
 [LAW_1A]
 law_1a
@@ -3548,37 +3548,37 @@ law_2a
 law_2b
 
 [FEH_STA]
-STATS
+ESTADÍSTICAS
 
 [FEH_LOA]
-LOAD
+CARGAR
 
 [FEH_CON]
-CONTROLS
+CONTROLES
 
 [FEH_AUD]
 AUDIO
 
 [FEH_LAN]
-LANGUAGE
+IDIOMA
 
 [FEH_SGA]
-START NEW GAME
+REINICIAR
 
 [FEO_CON]
-Controller Setup
+Config. de Controles
 
 [FEO_AUD]
-Audio Setup
+Config. de Audio
 
 [FEO_DIS]
-Display Setup
+Config. de Pantalla
 
 [FEO_LAN]
-Language Setup
+Config. de Idioma
 
 [FEO_PLA]
-Player Setup
+Config. de Apariencia
 
 [FEA_OUT]
 Salida
@@ -3662,7 +3662,7 @@ Borrar Partida
 Config. de Controles
 
 [FEC_RED]
-Redefinir Teclas
+Redefinir Botones/Teclas
 
 [FEC_MOU]
 Config. del Mouse
@@ -3758,13 +3758,13 @@ You do not have enough money to start this mission.
 Go to the green house blip on the radar.
 
 [FES_FMS]
-Format Successful. Select OK to continue.
+Éxito al formatear. ACEPTAR para continuar.
 
 [FES_SSC]
-Save Successful. Select OK to continue.
+Éxito al guardar. ACEPTAR para continuar.
 
 [FES_DSC]
-Delete Successful. Select OK to continue.
+Éxito al borrar. ACEPTAR para continuar.
 
 [FESZ_QC]
 Proceed with overwriting this corrupted save game?
@@ -3773,34 +3773,34 @@ Proceed with overwriting this corrupted save game?
 Warning! One or more cheats have been activated. This may affect your save game. It is recommended that you do not save this game.
 
 [FET_SG]
-SAVE GAME
+GUARDAR PARTIDA
 
 [FEH_BRI]
-BRIEF
+INFORME
 
 [FEH_DIS]
-DISPLAY
+PANTALLA
 
 [FEH_MAP]
-MAP
+MAPA
 
 [FEM_OK]
-OK
+ACEPTAR
 
 [FEC_CRO]
-Crouch
+Agacharse
 
 [FEC_CR3]
-Crouch (L3 button)
+Agacharse (L3)
 
 [FEC_SMT]
-Sub-mission
+Misión Secundaria
 
 [FEC_SM3]
-Sub-mission (R3 button)
+Misión Secundaria (R3)
 
 [FEC_RSC]
-Radio stations
+Estaciones de Radio
 
 [ST_PR01]
 Flyboy
@@ -3860,13 +3860,13 @@ Air Chief Marshal
 Ace
 
 [FET_LG]
-LOAD GAME
+CARGAR PARTIDA
 
 [CAR_EXP]
 Road Vehicles destroyed
 
 [BOA_EXP]
-Boats destroyed
+Barcos destruidos
 
 [HEL_DST]
 Planes & Helicopters destroyed
@@ -3971,10 +3971,10 @@ Rich management suck!
 ~g~Use the RC Helicopter to collect checkpoints scattered throughout the airport.
 
 [RCH1_9]
-~b~TOTAL TIME: ~1~:~1~
+~b~TIEMPO TOTAL: ~1~:~1~
 
 [RCH1_10]
-~b~TOTAL TIME: ~1~:0~1~
+~b~TIEMPO TOTAL: ~1~:~1~
 
 [WHEEL01]
 TWO WHEELS DOUBLE BONUS: $ ~1~ Distance: ~1~.~1~m Time: ~1~ seconds
@@ -4022,10 +4022,10 @@ STOPPIE BONUS: $ ~1~ Distance: ~1~.~1~m
 STOPPIE BONUS: $ ~1~ Distance: ~1~ feet
 
 [ROK3_72]
-Love Fist!
+¡Love Fist!
 
 [POR1_19]
-Hey!
+¡Ey!
 
 [DESPERA]
 Desperado
@@ -4130,28 +4130,28 @@ Mafia Cruiser
 I'm not driving for you, no way, I'm sharing this at group.
 
 [FEM_SL1]
-Save File 1 Not Present
+Espacio Libre #01
 
 [FEM_SL2]
-Save File 2 Not Present
+Espacio Libre #02
 
 [FEM_SL3]
-Save File 3 Not Present
+Espacio Libre #03
 
 [FEM_SL4]
-Save File 4 Not Present
+Espacio Libre #04
 
 [FEM_SL5]
-Save File 5 Not Present
+Espacio Libre #05
 
 [FEM_SL6]
-Save File 6 Not Present
+Espacio Libre #06
 
 [FEM_SL7]
-Save File 7 Not Present
+Espacio Libre #07
 
 [FEM_SL8]
-Save File 8 Not Present
+Espacio Libre #08
 
 [FEA_CHA]
 Cambiando salida de audio a ESTÉREO. Por favor, espera...
@@ -4184,7 +4184,7 @@ START -
 ; = > < -
 
 [FEI_STO]
-Stop
+Alto
 
 [ST_ICEC]
 'Helado' vendido
@@ -4538,7 +4538,7 @@ Most Favorite Radio Station
 Least Favorite Radio Station
 
 [FEI_HOL]
-Hold
+Mantener
 
 [FEI_ZOO]
 Zoom
@@ -4844,7 +4844,7 @@ YOU ARE HERE
 Maybe Leo's already dead. Maybe I killed Leo and took his phone - you think of that prick?
 
 [FE_MLG]
-MAP LEGEND
+LEYENDA DE MAPA
 
 [FED_RDR]
 RADAR
@@ -6233,7 +6233,7 @@ BLOODRING
 DIRTRING
 
 [FEC_ABR]
-Accelerate, Brake or Reverse
+Acelerar, Freno o Reversa
 
 [FEI_BTU]
 ; = -
@@ -6269,13 +6269,13 @@ Checkpoint Charlie
 ~g~collect the packages before the time runs out.
 
 [FEI_R1B]
-R1 \ R2 button -
+R1 / R2 -
 
 [HELP9_A]
 Press the~h~ ~k~~PED_FIREWEAPON~ button ~w~to ~h~fire~w~ the sniper rifle.
 
 [HELP21]
-Press the ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~button to enter or exit a vehicle.
+Usa ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~para entrar o salir de un vehículo.
 
 [CREAM]
 Distribution
@@ -6290,7 +6290,7 @@ Usa ~h~~k~~PED_ANSWER_PHONE~ ~w~para agarrar ésta arma. Reemplazará cualquier 
 MAPA E ÍCONOS
 
 [FEC_ILU]
-Invert Look in 1st Person
+Invertir Vista (1ra Persona)
 
 [NITRO]
 All taxi's now have a boost jump! Just press the horn button.
@@ -6449,7 +6449,7 @@ Press the ~h~~k~~PED_ANSWER_PHONE~~w~ button to set the camera behind you.
 Press ~h~~k~~PED_CYCLE_WEAPON_LEFT~~w~ button or ~h~~k~~PED_CYCLE_WEAPON_RIGHT~~w~ button to cycle through your available weapons.
 
 [HELP46]
-There are eight different types of weapon.
+Hay ocho tipos diferentes de armas.
 
 [HELP47]
 You can carry one of each type of weapon at a time - one type of pistol, one type of shotgun.
@@ -6458,7 +6458,7 @@ You can carry one of each type of weapon at a time - one type of pistol, one typ
 ~w~Cost: $~1~ ~r~Buying this will replace your current weapon.
 
 [HELP2A2]
-Press the ~h~~k~~PED_SPRINT~~w~ button when running to ~h~sprint
+Usa ~h~~k~~PED_SPRINT~~w~ mientras corres para ~h~esprintar.
 
 [HLPSN_A]
 The sniper rifle allows you to zoom in and fire accurately at targets from a distance.
@@ -6821,19 +6821,19 @@ New ~h~Contact Point ~w~opened at the marina in Ocean Beach!!
 Fire Truck Mission level ~1~
 
 [FEM_RET]
-RETRY
+REINTENTAR
 
 [FESZ_QR]
 Are you sure you want to start a new game? All progress will be lost. Proceed?
 
 [SEG3_1]
-TIME:
+TIEMPO:
 
 [HELP56]
-Press the ~h~~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~~w~ button to change camera modes.
+Usa ~h~~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~~w~ para cambiar el tipo de cámara.
 
 [HELP57]
-Press the ~h~~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~~w~ button to change camera modes.
+Usa ~h~~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~~w~ para cambiar el tipo de cámara.
 
 [HELP58]
 While targeting you can press the ~h~~k~~PED_CYCLE_TARGET_LEFT~ button or ~k~~PED_CYCLE_TARGET_RIGHT~ ~w~button to cycle through targets.
@@ -6848,25 +6848,25 @@ If you press the ~w~~k~~PED_SPRINT~ ~w~button while car jacking, you will not en
 You now have limitless ammo and double health on all vehicles.
 
 [FEC_LB1]
-Look
+Mirar 
 
 [FEC_LB2]
-behind
+Atrás
 
 [FEC_LB3]
-Look behind
+Mirar Atrás
 
 [FEC_R3]
-(R3 button)
+(R3)
 
 [FEC_PED]
-Controls On Foot
+Controles a Pie
 
 [FEC_VEH]
-Controls In Vehicle
+Controles en Vehículo
 
 [FEC_FPR]
-Controls For First Person
+Controles en 1ra Persona
 
 [FEC_CMM]
 Common Controls
@@ -6968,7 +6968,7 @@ Enter/Exit Vehicle
 Fire Weapon
 
 [FEC_PAS]
-Pause
+Pausa
 
 [FEC_FPO]
 1st Person Weapons
@@ -6995,16 +6995,16 @@ Turn Debug Camera Off
 Invert Mouse Horizontally:
 
 [FEC_MSL]
-LMB
+CLICK IZQ
 
 [FEC_MSM]
-MMB
+CLICK MEDIO
 
 [FEC_MSR]
-RMB
+CLICK DCHO
 
 [FEC_QUE]
-???
+?????
 
 [FEC_TWO]
 Only Two Keyboard Keys Allowed
@@ -7037,7 +7037,7 @@ JOY ~1~
 Warning
 
 [FEC_OKK]
-O.K.
+ACEPTAR
 
 [FEC_DLF]
 Delete Failed.
