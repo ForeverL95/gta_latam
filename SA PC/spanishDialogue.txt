@@ -35,10 +35,10 @@
 ~z~¡Me calmaré cuando llegues!
 
 [MCAT02E]
-~z~¡Es mejor que esperes que no haga kebabs de testículos cuando llegues!
+~z~¡Y reza que no haga kebabs de testículos cuando llegues!
 
 [MCAT02F]
-~z~Mira, esto no es no...
+~z~Mira, esto no es...
 
 [MCAT02G]
 ~z~¡No más charlas!
@@ -80,7 +80,7 @@
 ~z~Mira, solo di lo que tengas que decir.
 
 [MCAT05D]
-~z~¡No me interesan estos estúpidos juegos!
+~z~¡No me interesan estos juegos estúpidos!
 
 [MCAT05E]
 ~z~¿Juegos estúpidos? ¡Es mi corazón con el que juegas!
