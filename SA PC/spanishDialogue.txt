@@ -2,7 +2,7 @@
 ~z~¿Hola?
 
 [MCAT01B]
-~z~¿Dónde has estado, capullo?
+~z~¿Dónde has estado, idiota?
 
 [MCAT01C]
 ~z~¿Por qué no llamas, eh?
@@ -11,40 +11,40 @@
 ~z~Bueno, estaba a punto de llamarte, pero...
 
 [MCAT01E]
-~z~¡Mentiroso! ¡Te has estado yendo con putas apestosas!
+~z~¡MENTIROSO! ¡Has estado saliendo con esas putas apestosas!
 
 [MCAT01F]
-~z~¡No! No, si me dejas que...
+~z~¡No! No, si me dejaras...
 
 [MCAT01G]
-~z~¡Silencio! ¡Ven ahora mismo, tenemos sitios que atracar!
+~z~¡Silencio! ¡Ven aquí, tenemos lugares que robar!
 
 [MCAT01H]
-~z~Mira, estoy en mitad de un marrón...
+~z~Mira, estoy en medio de una mierda, ¿estamos?
 
 [MCAT02A]
 ~z~¡Hoooola!
 
 [MCAT02B]
-~z~¿A qué viene ese entusiasmo? ¿Pensabas que era una de tus putas baratas?
+~z~¿Por qué estás tan alegre? ¿Pensaste que era una de tus putas baratas?
 
 [MCAT02C]
-~z~Nena, tienes que calmarte de una puta vez y...
+~z~Bebé, tienes que calmarte de una puta vez y...
 
 [MCAT02D]
-~z~¡Me calmaré cuando vengas!
+~z~¡Me calmaré cuando llegues!
 
 [MCAT02E]
-~z~¡Y reza por que no haga kebab de testículos cuando llegues!
+~z~¡Y reza que no haga kebabs de testículos cuando llegues!
 
 [MCAT02F]
 ~z~Mira, esto no es...
 
 [MCAT02G]
-~z~¡Basta de cháchara!
+~z~¡No más charlas!
 
 [MCAT02H]
-~z~¡Trae tu culo para acá, ahora mismo!
+~z~¡Trae tu culo aquí, ahora!
 
 [MCAT03A]
 ~z~¡CERDO!
@@ -59,37 +59,37 @@
 ~z~¡Idiota de pelotas enanas!
 
 [MCAT04C]
-~z~¡Catalina! Sé que eres tú. ¿Ahora qué te pica, tía?
+~z~¡Catalina! Eh, sé que eres tú. ¿Qué te sucede ahora, bebé?
 
 [MCAT04D]
-~z~¡Ya no te quiero!
+~z~¡Ya no te amo!
 
 [MCAT04E]
-~z~Bueno, mira, vamos a...
+~z~Bueno, ey, vamos a...
 
 [MCAT04F]
 ~z~¿Hola?
 
 [MCAT05A]
-~z~CJ al habla.
+~z~¡Ey, soy CJ!
 
 [MCAT05B]
-~z~¡Ya sé que eres tú, perro apestoso!
+~z~¡Sé que eres tú, perro apestoso!
 
 [MCAT05C]
-~z~Mira, di lo que tengas que decir.
+~z~Mira, solo di lo que tengas que decir.
 
 [MCAT05D]
-~z~¡Estoy harto de estos juegos estúpidos!
+~z~¡No me interesan estos juegos estúpidos!
 
 [MCAT05E]
-~z~¿Juegos estúpidos? ¡Es mi corazón con lo que estás jugando!
+~z~¿Juegos estúpidos? ¡Es mi corazón con el que juegas!
 
 [MCAT05F]
 ~z~¿Cómo? Mira, tú...
 
 [MCAT05G]
-~z~¡Joder! ¡Tengo que cambiar de número!
+~z~¡Carajo! ¡Tengo que cambiar mi número!
 
 [MCAT06A]
 ~z~Hola, Claude, cielo.
@@ -4216,27 +4216,27 @@
 {=================================== MISSION TABLE BOAT ===================================}
 
 [OMO_1:BOAT]
-~z~Bienvenido a la escuela de navegación.
+~z~Bienvenido a la Escuela de Barcos.
 
 [OMO_2:BOAT]
-~z~Para aprobar tienes que conseguir al menos el BRONCE en las 5 pruebas.
+~z~Para aprobar debes obtener el BRONCE o más en las 5 pruebas.
 
 [OMO_3:BOAT]
-~z~Para ver una demostración de las pruebas, utiliza el televisor que hay allí.
+~z~Para ver una demostración de cada prueba, usa el televisor de allí.
 
 [OMO_4:BOAT]
-~z~Supera una prueba para desbloquear la siguiente.
+~z~Superar una prueba desbloqueará la siguiente.
 
 [OMO_5:BOAT]
-~z~Puedes volver en cualquier momento para revisar tus puntuaciones o coger más pruebas.
+~z~Puedes volver y comprobar tus puntuaciones o realizar nuevas pruebas en cualquier momento.
 
 {=================================== MISSION TABLE BS ===================================}
 
 [MEC_B1:BS]
-~z~Bienvenido a la escuela avanzada para motoristas.
+~z~Bienvenido a la Escuela Avanzada de Motocicletas.
 
 [MEC_B2:BS]
-~z~Para aprobar tienes que conseguir al menos el BRONCE en las 6 pruebas.
+~z~Para aprobar debes obtener el BRONCE o más en las 6 pruebas.
 
 {=================================== MISSION TABLE CASIN10 ===================================}
 
@@ -8614,19 +8614,19 @@
 {=================================== MISSION TABLE DS ===================================}
 
 [MEC_D1:DS]
-~z~Bienvenido a la autoescuela avanzada.
+~z~Bienvenidos a la Escuela de Conducción Avanzada.
 
 [MEC_D2:DS]
-~z~Para aprobar tienes que conseguir al menos el BRONCE en las 12 pruebas.
+~z~Para aprobar debes obtener el BRONCE o más en las 12 pruebas.
 
 [MEC_D3:DS]
-~z~Para ver una demostración de las pruebas, utiliza el televisor que hay allí.
+~z~Para ver una demostración de cada prueba, usa el televisor de allí.
 
 [MEC_D4:DS]
-~z~Supera una prueba para desbloquear la siguiente en el programa de entrenamiento.
+~z~Superar una prueba desbloqueará la siguiente en el programa de entrenamiento.
 
 [MEC_D5:DS]
-~z~Puedes volver en cualquier momento para revisar tus puntuaciones o coger más pruebas.
+~z~Puedes volver y comprobar tus puntuaciones o realizar nuevas pruebas en cualquier momento.
 
 {=================================== MISSION TABLE DSERT10 ===================================}
 
@@ -12582,97 +12582,97 @@
 ~z~Después de cinco años en la Costa Este, era hora de volver a casa.
 
 [PRO@02:INTRO1]
-~z~¿Qué "paisha"?
+~z~¿Q' pasa?
 
 [PRO@03:INTRO1]
 ~z~Carl, soy Sweet.
 
 [PRO@04:INTRO1]
-~z~¿Qué pasa? ¿Qué quieres, Sweet?
+~z~Qué pasa, Sweet, ¿qué quieres?
 
 [PRO@05:INTRO1]
-~z~Es mamá... Está muerta, hermano.
+~z~Es mamá... está muerta, hermano.
 
 [PRO@06:INTRO1]
-~z~¿Qué? ¿Cómo ha muerto?
+~z~¿Cómo? ¿Cómo murió?
 
 [PRO@07:INTRO1]
 ~z~Ahora no. ¿Vienes a casa?
 
 [PRO@08:INTRO1]
-~z~Sí, sí. Voy.
+~z~Sí, sí, estoy.
 
 [PRO@09:INTRO1]
-~z~Pasajero, arriba las manos.
+~z~Pasajero. Muestre sus manos.
 
 [PRO@10:INTRO1]
-~z~La mano por la ventanilla, abre la puerta.
+~z~Sáque una del auto y abra la puerta.
 
 [PRO@11:INTRO1]
-~z~Sal del coche.
+~z~Salga del auto.
 
 [PRO@12:INTRO1]
-~z~Camina hacia aquí con las manos en la cabeza.
+~z~Camine hacia nosotros con las manos detrás de la cabeza.
 
 [PRO@13:INTRO1]
-~z~No te he dicho que me mires, chaval.
+~z~No te dije que me vieras, chico.
 
 [PRO@14:INTRO1]
-~z~Ponte de espaldas a mi voz.
+~z~De vuelta hacia mi voz.
 
 [PRO@15:INTRO1]
-~z~Bienvenido a casa.
+~z~Bienvenido a casa, Carl. ¿Contento de haber vuelto?
 
 [PRO@16:INTRO1]
-~z~Eso es dinero sucio.
+~z~Esto es dinero de droga.
 
 [PRO@17:INTRO1]
-~z~No te has olvidado de nosotros, ¿verdad, chaval?
+~z~No te olvidaste de nosotros, ¿verdad, chico?
 
 [PRO@18:INTRO1]
-~z~Eh, no te preocupes, lo consignaré luego.
+~z~Ey, no te preocupes, lo ficharé más tarde.
 
 [PRO@19:INTRO1]
-~z~Diablos, no, agente Tenpenny.
+~z~Diablos, no, Oficial Tenpenny.
 
 [PRO@20:INTRO1]
-~z~Me estaba preguntando por qué tardaban tanto.
+~z~Me preguntaba por qué tardaron tanto.
 
 [PRO@21:INTRO1]
-~z~Bueno, el aeropuerto es cosa de los federales. No es nuestra jurisdicción.
+~z~Bueno, ya sabes, dentro del aeropuerto, es federal. No es nuestra jurisdicción.
 
 [PRO@22:INTRO1]
-~z~Al coche.
+~z~Súbanlo al auto.
 
 [PRO@23:INTRO1]
-~z~¡Largo de aquí, bola de sebo!
+~z~¡Fuera de aquí, bastardo grasoso!
 
 [PRO@24:INTRO1]
-~z~¿Qué tal? ¿Cómo está tu maravillosa familia?
+~z~¿Cómo has estado, Carl? ¿Cómo está tu maravillosa familia?
 
 [PRO@25:INTRO1]
-~z~He venido a enterrar a mi madre. Ya lo sabe.
+~z~Estoy aquí para enterrar a mi mamá. Lo sabes.
 
 [PRO@26:INTRO1]
-~z~Ya, supongo que sí.
+~z~Sí, supongo que sí.
 
 [PRO@27:INTRO1]
 ~z~Nada. Ahora vivo en Liberty City. Estoy limpio. Legal.
 
 [PRO@28:INTRO1]
-~z~Nunca has estado limpio, Carl.
+~z~Nah, nunca has estado limpio, Carl.
 
 [PRO@29:INTRO1]
 ~z~Bueno, ¿qué tenemos aquí?
 
 [PRO@30:INTRO1]
-~z~Es el arma, agente Pulaski, que han usado para matar
+~z~Esta es un arma, Oficial Pulaski, que se usó para matar
 
 [PRO@30B:INTRO1]
-~z~a un agente de policía no hace ni diez minutos.
+~z~a un oficial de policía no hace ni diez minutos.
 
 [PRO@31:INTRO1]
-~z~El agente Pendelbury, ¡un buen hombre!
+~z~El Oficial Pendelbury. Un buen hombre, debo añadir.
 
 [PRO@32:INTRO1]
 ~z~¡Saben que acabo de bajar del avión!
@@ -12681,277 +12681,277 @@
 ~z~Trabajas rápido, negro.
 
 [PRO@34:INTRO1]
-~z~Menos mal que te hemos encontrado con el arma del crimen.
+~z~Menos mal que te encontramos y recuperamos el arma homicida.
 
 [PRO@35:INTRO1]
-~z~Esa arma no es mía.
+~z~Esa no es mi arma.
 
 [PRO@36:INTRO1]
-~z~No me cuentes rollos, Carl.
+~z~No me jodas, Carl.
 
 [PRO@37:INTRO1]
-~z~Sí, déjate de rollos, Carl.
+~z~Sí, no lo jodas, Carl.
 
 [PRO@38:INTRO1]
-~z~¿Qué coño quieren de mí esta vez?
+~z~¿Qué carajo quieren de mí esta vez?
 
 [PRO@39:INTRO1]
-~z~Carl, puto pandillero chupapollas de los cojones.
+~z~No maldigas, Carl, maldito pedazo de mierda pandillero chupapenes.
 
 [PRO@40:INTRO1]
-~z~Cuando queramos algo de ti, te encontraremos.
+~z~Cuando te necesitemos, te encontraremos.
 
 [PRO@41:INTRO1]
-~z~Mientras tanto, intenta no disparar a más agentes de policía.
+~z~Mientras tanto, trata de no disparar a más agentes de la ley.
 
 [PRO@42:INTRO1]
-~z~Carl, estamos aquí para proteger y servir.
+~z~Carl, solo estamos aquí para proteger y servir.
 
 [PRO@43:INTRO1]
-~z~No pueden dejarme aquí. Esto es territorio de los Ballas.
+~z~No pueden dejarme aquí. Es territorio de los BALLAS.
 
 [PRO@44:INTRO1]
-~z~¿No decías que eras inocente, Carl? ¿Que no eras un pandillero?
+~z~¿No habías dicho que eras inocente, Carl? ¿Que no atacabas?
 
 [PRO@45:INTRO1]
-~z~Aquí el coche 58... ¡¿Quééé?!
+~z~Este es el auto 58...
 
 [PRO@46:INTRO1]
-~z~¿El agente Pendelbury, muerto? Allá vamos.
+~z~- ¡Jajajajajajajaja!~n~- ¡¿QUÉ?! ¿El Oficial Pendelbury abatido? Iremos enseguida.
 
 [PRO@47:INTRO1]
-~z~Nos las vemos, Carl...
+~z~Nos vemos, Carl...
 
 [PRO@48:INTRO1]
-~z~¿Ves, Hernández? Así es como un agente experimentado trata a un peligro.
+~z~Mira, Hernández, así es como un oficial experimentado se enfrenta con una amenaza conocida.
 
 [PRO@49:INTRO1]
-~z~¿En qué más andas metido, Carl?
+~z~Entonces, ¿qué más tienes para decir, Carl?
 
 [INT1A01:INTRO1]
-~z~"¡Déjame mirar, Carl, déjame!"
+~z~¡Paren! ¿Qué están haciendo? ¡Carl, Brian, basta!
 
 [INT1A02:INTRO1]
-~z~"¡Para ya! ¡Mamá te va a oír!"
+~z~¡Déjalo! ¡Mamá nos escuchará!
 
 [INT1A03:INTRO1]
-~z~"¡Mamá! ¡Están tramando algo!"
+~z~¡Mamá! ¡Están tramando algo!
 
 [INT1A04:INTRO1]
-~z~"¡Brian! ¡Carl! ¡Dejad de pelearos y lavaros las manos!"
+~z~¡Brian! ¡Carl! ¡Dejen de pelear y lávense las manos!
 
 [INT1A05:INTRO1]
-~z~¡Has escogido la casa equivocada, idiota!
+~z~¡Elegiste la casa equivocada, tonto!
 
 [INT1A06:INTRO1]
-~z~¡Big Smoke! ¡Soy yo, Carl!
+~z~¡Big Smoke! ¡Soy yo, Carl! ¡Calma, calma!
 
 [INT1A07:INTRO1]
-~z~¡CJ, compañero! ¿Es... estás bien, tío?
+~z~¿CJ? ¡Ohh, mi perro! ¿Qué pasa? Ey, chico, ¿estás bien, viejo?
 
 [INT1A08:INTRO1]
-~z~No, tío, mi mamá...
+~z~No, viejo, es mi mamá, amigo...
 
 [INT1A09:INTRO1]
-~z~No sé por qué ha tenido que pasar esto,
+~z~Ey, no sé por qué tuvo que pasar esto
 
 [INT1A10:INTRO1]
-~z~¡pero juro que voy a averiguar quién la ha matado!
+~z~pero te lo prometo, ¡voy a averiguar quién mató a tu mamá!
 
 [INT1A11:INTRO1]
-~z~Las calles son duras, colega.
+~z~Las calles son crueles, perro.
 
 [INT1A12:INTRO1]
-~z~Como dice el libro, estamos benditos y malditos.
+~z~Como dice el libro, somos bendecidos y maldecidos.
 
 [INT1A13:INTRO1]
 ~z~¿Qué puto libro?
 
 [INT1A14:INTRO1]
-~z~Lo que nos hace reír, nos hace llorar.
+~z~Lo mismo que nos hace reír, nos hace llorar.
 
 [INT1A15:INTRO1]
-~z~Pero ahora, tenemos cosas de las que ocuparnos.
+~z~Pero ahora mismo, debemos ocuparnos de lo nuestro.
 
 [INT1A16:INTRO1]
-~z~Ve a ver a tu hermano en el cementerio, venga.
+~z~Ve a ver a tu hermano al cementerio. Vamos, vamos.
 
 [INT1B00:INTRO1]
-~z~Mirad a quién me he encontrado por ahí.
+~z~Ey, ¿qué pasa con ustedes? Miren a quién encontré por ahí.
 
 [INT1B01:INTRO1]
-~z~No puedo creer que esté muerta, tío.
+~z~No puedo creer que se haya ido, viejo.
 
 [INT1B02:INTRO1]
-~z~Otro funeral del que te has escaqueado. Como el de Brian.
+~z~Otro funeral del que te escapaste, idiota. Como el de Brian.
 
 [INT1B03:INTRO1]
-~z~Eh, que también era mi madre.
+~z~Ey, también era mi mamá.
 
 [INT1B04:INTRO1]
-~z~No en cinco años, negrata.
+~z~Durante los últimos 5 años no lo fue, negro.
 
 [INT1B05:INTRO1]
-~z~¿Adónde coño crees que vas?
+~z~¿Y adónde carajo crees que vas?
 
 [INT1B06:INTRO1]
-~z~¡Que te den! Me voy a ver a César.
+~z~¿Qué? Lárgate. Voy a ver a César.
 
 [INT1B07:INTRO1]
-~z~¡Y una mierda, tía!
+~z~¡Qué demonios eres, niña!
 
 [INT1B08:INTRO1]
-~z~¡No vas a hacer nada con uno de esos chicanos tirados!
+~z~No te metas con ellos, sabes que estamos peleando,
 
 [INT1B09:INTRO1]
-~z~¡Le quiero! ¿Quién te crees que eres?
+~z~¡no son más que un montón de maleantes!~n~¡Mira, lo amo! ¿Y qué carajo eres tú?
 
 [INT1B10:INTRO1]
-~z~Yo al menos tengo principios.
-
-[INT1B12:INTRO1]
-~z~¡Carl, díselo tú!
+~z~Al menos tengo principios.
 
 [INT1B11:INTRO1]
-~z~Y eso te convierte en un americano modélico, claro. ¡Carl, díselo tú!
+~z~Ah, y supongo que eso te convierte en un estadounidense respetable. ¡Carl, díselo!
+
+[INT1B12:INTRO1]
+~z~¡Carl, díselo!
 
 [INT1B13:INTRO1]
-~z~- Lo que diga él me la pela.~n~- Mientras la trate bien...
+~z~- Carl no me digas una mierda, perra.~n~- Siempre y cuando la trate bien.
 
 [INT1B14:INTRO1]
-~z~Mientras la trate bien...
+~z~Siempre y cuando la trate bien.
 
 [INT1B15:INTRO1]
-~z~Si te deshonra, es hombre muerto.
+~z~Te falta el respeto y estará muerto.
 
 [INT1B16:INTRO1]
-~z~¿Y eso a qué viene?
+~z~¿Cómo carajo vas a decir eso?
 
 [INT1B17:INTRO1]
-~z~Como si eso os importara mucho.
+~z~Como si fuera asunto tuyo.
 
 [INT1B18:INTRO1]
-~z~Que te jodan, Sweet.
+~z~Vete a la mierda, Sweet.
 
 [INT1B19:INTRO1]
-~z~Todo esto es una jodida mierda. ¡Todo!
+~z~Esta mierda está realmente jodida. ¡Todo!
 
 [INT1B20:INTRO1]
-~z~¿A qué te refieres?
+~z~¿De qué hablas?
 
 [INT1B21:INTRO1]
-~z~¿Aparte de que mamá esté muerta?
+~z~¿Qué, además de que tu madre está muerta?
 
 [INT1B22:INTRO1]
-~z~La cosa está muy chunga. Ven que te lo enseñe, escaqueado. Tony está enterrado allí.
+~z~Las cosas van muy mal. Déjame mostrarte, fugitivo.~n~Tony está enterrado allí.
 
 [INT1B23:INTRO1]
-~z~Little Devil, allí; y Big Devil, allá.
+~z~Little Devil por aquí, y Big Devil por allá.
 
 [INT1B24:INTRO1]
-~z~Es una locura: a los idiotas les disparan primero y les preguntan después.
+~z~Viejo, es una locura: primero les disparan, y después les hacen preguntas.
 
 [INT1_AA:INTRO1]
-~z~Ya me conoces. Está sin modificar. Así no pierde valor. Es más genuino.
+~z~Me conoces. No está modificado. Mantiene su valor. Se conserva genuino.
 
 [INT1_AB:INTRO1]
 ~z~¿Quieres conducir?
 
 [INT1_AC:INTRO1]
-~z~Claro. Mola.
+~z~Sí, genial.
 
 [INT1_AD:INTRO1]
-~z~¿Todavía te gustan los coches? Pensaba que en Liberty no los respetaban.
+~z~¿Aún te gustan los autos?
 
 [INT1_AE:INTRO1]
-~z~Siempre he adorado los coches, tío.
+~z~Siempre he amado los autos, viejo.
 
 [INT1_AF:INTRO1]
-~z~Pensaba que en Liberty no los respetaban. ¿Y qué tenías allí?
+~z~Pensé que no respetaban los autos en Liberty. ¿Qué conducías allí?
 
 [INT1_AG:INTRO1]
 ~z~El metro.
 
 [INT1_AH:INTRO1]
-~z~Ja, ja, ja. Ése es mi hermano. Ya hemos llegado.
+~z~Jajaja. Ese es mi hermano. Llegamos.
 
 [INT1_AI:INTRO1]
-~z~¡Cuidado, que nos acribillan los Ballas!
+~z~¡Cuidado, los Ballas nos disparan!
 
 [INT1_AJ:INTRO1]
-~z~Auuu, hijo de puta, ¡mi coche!
+~z~¡¡Ohhh, hijo de puta, mi auto!!
 
 [INT1_AK:INTRO1]
-~z~Tenemos que volver al barrio, tío, las cosas están revueltas por aquí.
+~z~Tenemos que volver al barrio, viejo. ¡Está muy loco por aquí!
 
 [INT1_AL:INTRO1]
-~z~Esto está que arde.
+~z~Demasiada locura por aquí.
 
 [INT1_AM:INTRO1]
 ~z~¿Esto no era territorio de los Families?
 
 [INT1_AN:INTRO1]
-~z~Sí, de los Families de Temple Drive. Ya no nos tratamos con ellos.
+~z~Sí, de los Temple Drive Families. Ya no estamos con ellos.
 
 [INT1_AO:INTRO1]
-~z~No jodas, sí que han cambiado las cosas. ¿Cómo volvemos a casa?
+~z~No jodas, las cosas han cambiado. ¿Cómo llegamos a casa?
 
 [INT1_AP:INTRO1]
-~z~Coge una bici y pedalea. Ni tú te habrás olvidado de eso.
+~z~Agarra una bici y pedalea. Ni siquiera tú lo has olvidado.
 
 [INT1_AQ:INTRO1]
-~z~¡Seguidme!
+~z~¡Síganme!
 
 [INT1_AR:INTRO1]
-~z~Bonito coche, Smoke.
+~z~Buen auto, Smoke.
 
 [INT1_BA:INTRO1]
-~z~Qué recuerdos, ¿eh, CJ? ¡Sí!
+~z~Te hace recordar un poco, ¿eh, CJ? ¡Sí!
 
 [INT1_BB:INTRO1]
-~z~CJ, ve con cuidado por aquí, hermano.
+~z~CJ, cuida tu espalda por aquí, viejo.
 
 [INT1_BC:INTRO1]
-~z~¡Las cosas han cambiado mucho!
+~z~¡Las cosas han cambiado por aquí!
 
 [INT1_BD:INTRO1]
-~z~¿Cómo han llegado a ponerse tan chungas?
+~z~¿Cómo se puso tan mal?
 
 [INT1_BE:INTRO1]
-~z~¡Ey, Sweet, a ver si puedes seguirme!
+~z~¡Ey, Sweet, intenta seguir el ritmo!
 
 [INT1_BF:INTRO1]
-~z~¡De vuelta a la acción! ¿Eh, colega?
+~z~De vuelta al juego, ¿verdad, perro?
 
 [INT1_BG:INTRO1]
-~z~¿Estaban las cosas así de mal cuando te fuiste?
+~z~¿Todo estaba tan mal antes de que te fueras?
 
 [INT1_BH:INTRO1]
-~z~¡La Costa Este te ha dejado en los huesos, tronco!
+~z~La Costa Este te dejó en los huesos, amigo.
 
 [INT1_BI:INTRO1]
 ~z~¡Solo eres un estorbo, CJ!
 
 [INT1_BJ:INTRO1]
-~z~¿Todavía no nos dejas tirados, CJ?
+~z~Oh, todavía no te cansaste, ¿eh, CJ?
 
 [INT1_BK:INTRO1]
-~z~¿Por qué te has molestado en volver?
+~z~¿Por qué te molestaste en volver?
 
 [INT1_CA:INTRO1]
-~z~¡Mierda! Un coche de los Ballas. ¡Separaos!
+~z~¡Mierda! ¡Un auto de Ballas está sobre nosotros! ¡Sepárense!
 
 [INT1_CB:INTRO1]
-~z~¡Nos persiguen los malditos Ballas!
+~z~¡Mierda, los Ballas nos persiguen!
 
 [INT1_CC:INTRO1]
 ~z~¡BALLAS! ¡CADA UNO POR SU LADO!
 
 [INT1_DA:INTRO1]
-~z~¡Arriba, CJ, pedalea!
+~z~¡Levántate, CJ, pedalea!
 
 [INT1_DB:INTRO1]
-~z~Venga, CJ, ¡ya estamos cerca de Grove!
+~z~¡Muévete, CJ, no estamos lejos de Grove!
 
 [INT1_DC:INTRO1]
 ~z~¿Estás bien, CJ?
@@ -12960,199 +12960,199 @@
 ~z~¡Ey, ey, Carl ha caído!
 
 [INT1_DE:INTRO1]
-~z~¡Jo, tío, eso ha tenido que doler, colega!
+~z~¡Oh, viejo, parecía que esa mierda dolía, amigo!
 
 [INT1_DF:INTRO1]
-~z~¡Tío, vuelve a subir a la bici!
+~z~¡Vuelve a tu bici, viejo!
 
 [INT1_DG:INTRO1]
-~z~¡Ja ja! ¡Este idiota se ha caído!
+~z~¡Jaja! ¡Este tonto se cayó!
 
 [INT1_DH:INTRO1]
-~z~¡No sabe ni montar en bici!
+~z~¡Ni siquiera puede andar en bici!
 
 [INT1_DI:INTRO1]
-~z~¡CJ, pedaleas como una zorra en crack!
+~z~¡CJ, pedaleas como una zorra drogadicta, idiota!
 
 [INT1_EA:INTRO1]
-~z~¡Vamos, CJ, vamos!
+~z~¡Muévete, CJ, muévete!
 
 [INT1_EB:INTRO1]
-~z~¡No te retrases, CJ!
+~z~¡Sigue, CJ!
 
 [INT1_EC:INTRO1]
-~z~¡Vamos, CJ, pedalea!
+~z~Vamos, CJ. ¡Pedalea como un hijo de puta!
 
 [INT1_ED:INTRO1]
-~z~¡Venga, tío, no te quedes atrás!
+~z~¡Vamos viejo, tienes que seguir el ritmo!
 
 [INT1_EE:INTRO1]
-~z~¡Date brío, CJ!
+~z~¡Sigue, CJ!
 
 [INT1_EF:INTRO1]
 ~z~¡No nos pierdas, CJ!
 
 [INT1_EG:INTRO1]
-~z~¿Qué pasa, chaval, estás cansado?
+~z~¿Qué te pasa, tonto? ¿Estás cansado?
 
 [INT1_EH:INTRO1]
-~z~¡Venga, CJ - nos estás avergonzando!
+~z~Muévete, CJ, ¡nos estás avergonzando, negro!
 
 [INT1_EI:INTRO1]
-~z~¡Pero date caña, cabrón!
+~z~¡Sigue, hijo de puta!
 
 [INT1_EJ:INTRO1]
-~z~¿Qué sucede, CJ? ¿No puedes seguir al gordo?
+~z~¿Qué pasa, CJ? ¿No puedes seguir el ritmo del gordo?
 
 [INT1_FA:INTRO1]
-~z~¡Ey, mirad cómo va CJ!
+~z~¡Ey, mira como avanza CJ!
 
 [INT1_FB:INTRO1]
-~z~¡Ey, CJ, espéranos, tío!
+~z~¡Ey, CJ, espéranos, viejo!
 
 [INT1_FC:INTRO1]
-~z~CJ, corres como el mismo demonio!
+~z~¡CJ, corres como una perra, viejo!
 
 [INT1_FD:INTRO1]
-~z~¡Carl nos está enseñando cómo se hace!
+~z~Carl nos enseña cómo se hace.
 
 [INT1_FE:INTRO1]
-~z~¡Ese flacucho parece una bala!
+~z~El flaco estúpido se adelanta solo.
 
 [INT1_FF:INTRO1]
-~z~¡CJ va como un cohete, colega!
+~z~¡CJ hace lo suyo a toda velocidad, perro!
 
 [INT1_FG:INTRO1]
-~z~¡Típico de CJ, eh! ¡Dejando atrás a los colegas!
+~z~¡Típico, CJ! Dejando atrás a los amigos, ¿eh?
 
 [INT1_FH:INTRO1]
-~z~¡Ey, espera a tus colegas, idiota!
+~z~¡Ey, espera a tus amigos, idiota!
 
 [INT1_FI:INTRO1]
-~z~¡Típico, corres igual de rápido como un rajado de mierda!
+~z~¡Mira, moviéndote rápido como un hijo de puta, cagón!
 
 [INT1_GA:INTRO1]
-~z~¿Cuándo te vas, Carl?
+~z~Entonces, ¿cuándo te vas, Carl?
 
 [INT1_GB:INTRO1]
-~z~No estoy seguro. Pensaba quedarme.
+~z~No estoy seguro. Pensé en quedarme.
 
 [INT1_GC:INTRO1]
 ~z~Las cosas están jodidas.
 
 [INT1_GD:INTRO1]
-~z~Lo último que necesitamos es tu ayuda.
+~z~Bueno, lo último que necesitamos es tu ayuda.
 
 [INT1_GE:INTRO1]
-~z~Ey, tío no te defraudaré, te lo juro.
+~z~Oh viejo, no te defraudaré, lo juro.
 
 [INT1_GF:INTRO1]
-~z~¡Me he quedado atrás! ¡Me habéis dejado atrás!
+~z~¡Me quedé atrás! ¡Hijos de puta, me dejaron atrás!
 
 [INT1_GG:INTRO1]
-~z~Vaya piernas has echado en la Costa Este, chaval!
+~z~¡La Costa Este te puso unas piernas, chico!
 
 [INT1_GH:INTRO1]
-~z~Ey, vamos a llamar a unos colegas. Relajarnos y tal. ¿Te vienes?
+~z~Ey, llamaremos a otros del barrio y nos relajaremos. ¿Quieres venir?
 
 [INT1_GI:INTRO1]
-~z~Tengo mucho entre manos. Estoy cansado. Os veré más tarde.
+~z~Tengo mucho que hacer y estoy cansado. Los veré más tarde.
 
 [INT1_GJ:INTRO1]
-~z~Pásate luego, vamos a dar una vuelta.
+~z~Ey, déjalo pasar. Después saldremos.
 
 [INT1_GK:INTRO1]
-~z~Tío, tienes que olvidarte de esas ansiedades propias de Liberty City, hermano.
+~z~¡Viejo, tienes que perder algo de la ansiedad de Liberty City, ya!
 
 [INT1_GL:INTRO1]
-~z~Sí, y píllate unos colores, tío.
+~z~Sí, y vístete con los colores, tonto.
 
 [INT1_GM:INTRO1]
-~z~Y un corte de pelo: ¡da vergüenza ir contigo!
+~z~Y un corte de pelo. ¡Es vergonzoso ir contigo!
 
 [INT1_GN:INTRO1]
-~z~Me las vi con esos joputas y les enseñé quién es el gánster. ¡Ryder, negro!
+~z~Enfrenté a esos hijos de puta. Les mostré a esos negros quién es el gángster. ¡Ryder, negro!
 
 [PRO@99:INTRO1]
-~z~Mierda... tío...
+~z~Mierda... viejo...
 
 [PRO@50:INTRO1]
-~z~Jo, tío...
+~z~Oh, viejo...
 
 [PRO@51:INTRO1]
 ~z~Eso es... vamos... vamos...
 
 [PRO@52:INTRO1]
-~z~¿... por qué me están jodiendo...?
+~z~... joderme por...
 
 [PRO@53:INTRO1]
-~z~Alto. De rodillas.
+~z~Alto. Póngase de rodillas.
 
 [PRO@54:INTRO1]
 ~z~Ahora, boca abajo.
 
 [PRO@55:INTRO1]
-~z~Ey. Vamos, tío, joder. Me haces daño en el brazo.
+~z~Ey. Vamos viejo, diablos. Me lastimas el brazo.
 
 [PRO@56:INTRO1]
-~z~Ya vale de toquetear... ¿cómo?
+~z~Tocando todo mi cuerpo como... ¿qué?
 
 [PRO@57:INTRO1]
-~z~Ey, eso es mío, tío. Es dinero.
+~z~Ey, ese papel es mío, viejo. Es dinero.
 
 [PRO@58:INTRO1]
-~z~Dame eso, Hernández.
+~z~Me quedaré con eso, Hernández.
 
 [PRO@59:INTRO1]
-~z~Mi dinero, tío...
+~z~Mi dinero, viejo...
 
 [PRO@60:INTRO1]
-~z~Tranqui, tío. Joder.
+~z~Tranquilo, viejo. Carajo.
 
 [PRO@61:INTRO1]
-~z~Cuidado con la cabeza.
+~z~Cuidado con tu cabeza.
 
 [PRO@62:INTRO1]
-~z~_
+~z~¡Ou!
 
 [PRO@63:INTRO1]
-~z~¡Oh! Lo siento.
+~z~¡Oh! Mi error.
 
 [PRO@65:INTRO1]
 ~z~Estúpido mexicano...
 
 [PRO@66:INTRO1]
-~z~Oh, vaya, lo siento.
+~z~Oh, ey, lo siento.
 
 [PRO@67:INTRO1]
-~z~Mi maleta. ¡Ey, tío, mi maleta!
+~z~Mi maleta. ¡Ey, viejo, mi maleta!
 
 [PRO@68:INTRO1]
-~z~¿En qué más andas metido, Carl?
+~z~Entonces, ¿qué más tienes para decir, Carl?
 
 [PRO@69:INTRO1]
-~z~¡Ah! Joder...
+~z~¡Ah! Diablos...
 
 [INT1A17:INTRO1]
-~z~"¡Parad! ¿Qué estáis haciendo? ¡Carl, Brian, parad!"
+~z~¡Paren! ¿Qué están haciendo? ¡Carl, Brian, basta!
 
 [INT1B25:INTRO1]
-~z~Te he echado de menos estos cinco años. Se van a alegrar mucho de verte.
+~z~Te eché de menos estos cinco años, viejo. Estarán muy felices de verte.
 
 [INT1B26:INTRO1]
-~z~Carl, ey, me alegro de verte.
+~z~Carl, ey, que bueno verte.
 
 [INT1B27:INTRO1]
-~z~Oh, déjalo ya...
+~z~Oh, ahí vamos con esto...
 
 [INT1B29:INTRO1]
-~z~Mierda, ya estamos.
+~z~Oh, mierda, aquí vamos de nuevo.~n~... idiota.
 
 [INT1B28:INTRO1]
-~z~Jodido cretino.
+~z~Es un maldito idiota.
 
 [PRO@70:INTRO1]
-~z~Venga, ya está.
+~z~Ahí tienes.
 
 {=================================== MISSION TABLE INTRO2 ===================================}
 
