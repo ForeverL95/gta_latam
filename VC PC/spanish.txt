@@ -7567,7 +7567,7 @@ EL HARDWARE DE AUTODETECT
 {=================================== MISSION TABLE AMBULAE ===================================}
 
 [ATUTOR2:AMBULAE]
-~g~Lleva a los pacientes al Hospital CUIDADOSAMENTE. Cada golpe reduce sus posibilidades de sobrevivir.
+~g~Lleva a los pacientes al hospital CON CUIDADO. Cada golpe reduce sus posibilidades de sobrevivir.
 
 [A_FULL:AMBULAE]
 ~r~¡¡Ambulancia llena!!
@@ -8060,7 +8060,7 @@ Bien. Considéralo así.
 Conduciré para ti SOLAMENTE, y SOLAMENTE, demuestras que sabes conducir bien.
 
 [BJM3_2E:BANKJ3]
-Abandóna,e, y nunca te lo perdonaré.
+Abandóname, y nunca te lo perdonaré.
 
 [BJM3_2:BANKJ3]
 ~r~¡Hilary está muerto!
@@ -8320,7 +8320,7 @@ Era el último de ellos. ¡VAMOS! ¡VAMOS! ¡VAMOS!
 ¡Ey, chicos! ¡Entren! ¡Los cubriré!
 
 [BNK4_44:BANKJ4]
-¡Lo hicimos! ¡Somos ricos! ¡RICO!
+¡Lo hicimos! ¡Somos ricos! ¡RICOS!
 
 [BNK4_45:BANKJ4]
 Es una lástima que Cam no lo logró, ¡era un buen tipo!
@@ -8361,34 +8361,34 @@ Vamos, dame un poco más, amigo, vamos. Debo conseguir algo de ropa nueva.
 {=================================== MISSION TABLE BARON1 ===================================}
 
 [COK1_A:BARON1]
-Vamos nena, vamos, sí, sí, aaaah...
+¡Vamos, nena, ve! ¡Sí! ¡Sí! ¡Arrrrr!
 
 [COK1_B:BARON1]
-¡Estúpido caballo! ¡Te cortaré la cabeza!
+¡Estúpido caballo! ¡Te cortaré la cabeza! Grrrrr...
 
 [COK1_C:BARON1]
-¿Quién es este gilipollas?
+¿Quién es este idiota?
 
 [COK1_D:BARON1]
-Tommy Vercetti, ¿me recuerdas?
+Tommy Vercetti. Te acuerdas de mí.
 
 [COK1_E:BARON1]
-Perdóname, estoy un poco alterado. ¡Nunca te fíes de un maldito caballo!
+Discúlpame. Estoy un poco ansioso. ¡Nunca confíes en un maldito caballo!
 
 [COK1_F:BARON1]
-Hiciste un buen trabajo... ahora trabajas para mí.
+Hiciste un buen trabajo. Ahora trabajas para mí.
 
 [COK1_H:BARON1]
-Como dije amigo, trabajas para mí. Ahora, cállate. Algún Judas me ha traicionado.
+Como dije, amigo, ahora trabajas para mí. Cállate. Un Judas me ha traicionado.
 
 [COK1_I:BARON1]
-Él cree que no sé cuando dinero debería sacar con esto, pero robar un 3% es tan bueno como robar un 100%.
+Piensa que no sé cuánto dinero debería estar ganando, pero robar el 3% es tan bueno como robar el 100%.
 
 [COK1_J:BARON1]
-Nadie me hace esto a mí. ¡¡NADIE!!
+Nadie me hace esto. ¡¡NADIE!!
 
 [COK1_K:BARON1]
-¡Le sigues desde su apartamento y ves a dónde va! Más tarde, le mataremos.
+¡Lo sigues desde su apartamento y ves a dónde va! Luego, lo mataremos.
 
 [COK1_1:BARON1]
 ¡Ooh, mierda!
@@ -8397,25 +8397,25 @@ Nadie me hace esto a mí. ¡¡NADIE!!
 ¡Demasiado lento, abuelo!
 
 [COK1_4:BARON1]
-Perdedor
+Perdedor.
 
 [COK1_5:BARON1]
-¡Mejor sigue corriendo, gilipollas!
+¡Será mejor que sigas corriendo, cara de culo!
 
 [COK1_8:BARON1]
-~g~¡Rápido! ¡Coge un coche y síguele!
+~g~¡Rápido! ¡Busca un vehículo y síguelo!
 
 [COK1_9:BARON1]
-~r~¡Se supone que debes seguirle, no matarle!
+~r~¡Se supone que debías seguirlo, no matarlo!
 
 [COK1_10:BARON1]
-~r~Ve a la casa del ladrón y descubre dónde esconde el dinero.
+~r~Ve a la casa del ladrón y averigua dónde está escondiendo el dinero.
 
 [COK1_11:BARON1]
 ~g~Echa un vistazo por su ventana.
 
 [COK1_7:BARON1]
-~g~¡Se ha escapado por el tejado, ve tras él pero no le mates!
+~g~Se escapó al techo, ¡síguelo pero no lo mates!
 
 [COK1_G:BARON1]
 Trabajo por dinero.
@@ -8429,183 +8429,183 @@ Trabajo por dinero.
 ¡TONTO! ¡TONTO! ¡TONTO! ¡TONTO!
 
 [COK2_C:BARON2]
-Tommy...
+¡Tommy!
 
 [COK2_D:BARON2]
-Estos idiotas... siempre intentan joderle a uno
+¿Qué, Ricardo?
 
 [COK2_E:BARON2]
-Ese es el problema de este negocio
+Estos idiotas, siempre intentan joderte.
 
 [COK2_F:BARON2]
-¿Qué crees que estás haciendo? ¡Aaaaah!
+Ese es el problema de este negocio.
 
 [COK2_G:BARON2]
-Estos mamones me han fallado miserablemente.
-
-[COK2_H:BARON2]
-Pronto cualquier madre o padre creerán que pueden vender farlopa en Vice City.
-
-[COK2_I:BARON2]
-¿Y ahora qué, eh? ¡¿La apestosa Mafia?!
-
-[COK2_J:BARON2]
-Ese antro de mafiosos es una fortaleza inexpugnable desde el suelo,
-
-[COK2_K:BARON2]
-así que está aquí Quentin... ¡Quentin! ¡QUENTIN!
-
-[COK2_L:BARON2]
-¡Os llevará volando sobre la zona!
-
-[COK2_M:BARON2]
-¡Hacedles desaparecer!
-
-[COK2_N:BARON2]
 ¿Qué crees que estás haciendo?
 
+[COK2_H:BARON2]
+Estos idiotas me han fallado miserablemente.
+
+[COK2_I:BARON2]
+Pronto, cualquier mamá o papá pensarán que pueden vender droga en Vice City.
+
+[COK2_J:BARON2]
+¿Qué sigue, eh? ¡¿La apestosa Mafia?!
+
+[COK2_K:BARON2]
+Ese lugar de pandillas es una fortaleza a nivel del suelo,
+
+[COK2_L:BARON2]
+así que aquí, Quentin. ¡Quentin! ¡QUENTIN!
+
+[COK2_M:BARON2]
+¡Te llevará volando sobre el área!
+
+[COK2_N:BARON2]
+¡Elimínenlos!
+
 [COK2_O:BARON2]
-¿Qué haces aquí?
+¿Qué crees que estás haciendo?
 
 [COK2_P:BARON2]
-Hey, he estado haciendo preguntas por ahí, y es obvio
+¿Qué estás haciendo aquí?
 
 [COK2_Q:BARON2]
-que Díaz se saltó el trato y dejó tieso a mi hermano.
+Ey, estuve preguntando por ahí y es obvio
 
 [COK2_R:BARON2]
-¡Y te matará a ti también!
+que Díaz emboscó el intercambio y mató a mi hermano.
 
 [COK2_S:BARON2]
-¡Puedo encargarme de Díaz!
+¡Y te matará a tí también!
 
 [COK2_T:BARON2]
-No... ¡escúchame! Yo me encargaré de Díaz...
+¡Puedo encargarme de Díaz!
 
 [COK2_U:BARON2]
-... está empezando a confiar en mí.
+¡No, escúchame! Yo me ocuparé de Díaz.
 
 [COK2_V:BARON2]
-- está empezando a confiar en mí.
+Empieza a confiar en mí.
 
 [COK2_1:BARON2]
-Hay una cosa que me mosquea, ¿qué pasa con Quentin?
+Una cosa que me desconcierta, ¿¡qué eso de 'Quentin'!?
 
 [COK2_2:BARON2]
-No lo sé, siempre me cayó bien...Quentin Vance...
+No sé, siempre me gustó un poco... Quentin Vance...
 
 [COK2_3:BARON2]
-¿Vance? ¡¿Tu nombre es Lance Vance?!
+¿Vance? ¿Tu nombre es Lance Vance?
 
 [COK2_4:BARON2]
-¡Hey! ¡Ya tuve bastante con eso en la escuela!
+¡Ey! ¡Tuve suficiente de eso en la escuela!
 
 [COK2_5:BARON2]
-¿Alguna vez has disparado uno de esos desde un helicóptero?
+¿Alguna vez disparaste a uno de esos desde un helicóptero?
 
 [COK2_8:BARON2]
-En fin, ¿a dónde nos dirigimos?
+¿A dónde diablos nos dirigimos de todos modos?
 
 [COK2_9:BARON2]
-A Prawn Island.
+Prawn Island.
 
 [COK2_13:BARON2]
 Lance Vance. Pobre bastardo.
 
 [COK2_14:BARON2]
-Ok, casi hemos llegado.
+Bien, ya casi llegamos.
 
 [COK2_15:BARON2]
-Daremos un par de pasadas.
+Haremos un par de vueltas.
 
 [COK2_16:BARON2]
-Así que eliminad a tantos como podáis.
+Así que elimina a tantos tipos como puedas.
 
 [COK2_17:BARON2]
-Después os dejaré abajo y os las arreglaréis solos.
+Entonces te bajaré y estarás por tu cuenta.
 
 [COK2_20:BARON2]
-¡Mierda! ¡ Ésto es una zona de guerra! ¡Eliminad a algunos de esos pistoleros!
+¡Carajo! ¡Esta es zona de guerra! ¡Elimina a algunos de esos tiradores!
 
 [COK2_21:BARON2]
-¡Nos están alcanzando, tío!
+¡Estamos recibiendo disparos aquí, viejo!
 
 [COK2_22:BARON2]
-¡Arreglar esta cosa no es barato! ¡Eliminadles!
+¡Esta cosa no es barata de arreglar! ¡Elimínalos!
 
 [COK2_23:BARON2]
-Ok, de ahora en adelante es cosa tuya... ¡buena suerte, hermano!
+¡Muy bien, estás solo desde aquí! ¡Buena suerte, hermano!
 
 [COK2_24:BARON2]
-Estado del helicóptero
+Helicóptero:
 
 [COK2_25:BARON2]
-~g~Ve y recoge el dinero del tejado.
+~g~Ve a buscar el dinero en el techo.
 
 [COK2_27:BARON2]
-¡Estás en MI césped gilipollas!
+¡Estás en MI territorio, tarado!
 
 [COK2_28:BARON2]
-¡Vas a desaparecer!
+¡Van a caer!
 
 [COK2_6:BARON2]
-No. Practicaré un poco por el camino.
+¡No! Practicaré un poco en el camino.
 
 [OPEN_B:BARON2]
-Los controles policiales con dirección a la península han sido levantados
+Los bloqueos hacia Mainland han sido levantados.
 
 {=================================== MISSION TABLE BARON3 ===================================}
 
 [COK3_A:BARON3]
-AHORA no estáis tan satisfechos de vosotros mismos, ¡¿eh?!
+¡Ahora no están tan contentas de ustedes mismas, eh!
 
 [COK3_B:BARON3]
-Ahahahahaa, Ahahahahaa.
+Jajajaja, jajajaja.
 
 [COK3_C:BARON3]
-¡Guau! Cuidado hacia donde mueves esa cosa
+¡Wow! ¡Mira dónde agitas esa cosa!
 
 [COK3_D:BARON3]
-Ya no hay más mierda de paloma en MI coche, ¿¡eh Tommy!?
+¡No más mierda de paloma en MI auto, eh, Tommy!
 
 [COK3_E:BARON3]
 Supongo que no.
 
 [COK3_F:BARON3]
-Tienes toda la razón. Ahora escucha,
+Tienes toda la maldita razón. Ahora escucha,
 
 [COK3_G:BARON3]
-¿Sabes quién posee el barco más rápido de la costa este?
+¿sabes quién tiene el barco más rápido de la costa este?
 
 [COK3_H:BARON3]
-Ni idea.
+No tengo idea.
 
 [COK3_I:BARON3]
 YO. Y quiero que siga siendo así.
 
 [COK3_J:BARON3]
-Cada traficante de aquí a Caracas tiene un sueño, un barco más rápido.
+Todo traficante de aquí a Caracas tiene un sueño, un barco más rápido.
 
 [COK3_K:BARON3]
-Se rumorea que el Astillero del Holocausto acaba de terminar un barco así
+Se rumorea que el astillero acaba de terminar un barco así,
 
 [COK3_L:BARON3]
-para algún mamón costarricense
+para un idiota costarricense.
 
 [COK3_M:BARON3]
-Y Tommy...¡¡¡QUIERO ESE BARCO!!!
+Y Tommy... ¡¡¡QUIERO ESE BARCO!!!
 
 [COK3_N:BARON3]
-Creo que han vuelto tus palomas.
+Creo que tus palomas volvieron.
 
 [COK3_O:BARON3]
-¡Ah! Pensé que te tenía. ¿De dónde has salido?
+¡Ah! Pensé que te tenía. ¿De dónde viniste?
 
 [COK3_P:BARON3]
 ¡Palomas! ¡Boom! ¡Aaaaah!
 
 [COK3_5:BARON3]
-~g~¡Localiza el interruptor para bajar el barco.
+~g~Encuentra el interruptor para bajar el barco.
 
 [COK3_6:BARON3]
 ~g~Lleva el barco a la mansión.
@@ -8614,7 +8614,7 @@ Creo que han vuelto tus palomas.
 ~r~¡Destruiste el barco!
 
 [COK3_8:BARON3]
-~g~Ve al astillero, en los muelles y roba el barco más rápido.
+~g~Ve al astillero de los muelles y roba el barco.
 
 [COK3_9:BARON3]
 ~g~Ahora sube al barco.
@@ -8622,106 +8622,106 @@ Creo que han vuelto tus palomas.
 {=================================== MISSION TABLE BARON4 ===================================}
 
 [COK4_A:BARON4]
-¡Suéltala! ¡MIERDA DE PLÁSTICO!
+¡Escúpela! ¡MIERDA DE PLÁSTICO!
 
 [COK4_B:BARON4]
-¿Me vas a hacer esto?
+¿Me estás haciendo esto?
 
 [COK4_C:BARON4]
-¿Quién te crees que eres, maldita MIERDA de plástico? ¡Aaarrgh!
+¿Quién te crees, pedazo de plástico de MIERDA? ¡Aaarrgh!
 
 [COK4_D:BARON4]
-¡QUE TE JODAN!
+¡JÓDETE!
 
 [COK4_E:BARON4]
-Se come mi película favorita de El burro. ¡Morirá!
+¡Se come mi película favorita de El Burro, debe morir!
 
 [COK4_F:BARON4]
 ¿Qué más podía hacer?
 
 [COK4_G:BARON4]
-Probablemente no esté enchufado
+Tal vez no esté enchufado.
 
 [COK4_H:BARON4]
 ¿Qué?
 
 [COK4_I:BARON4]
-Maldición... no importa, puedo comprar cien más.
+Diablos. No importa, puedo comprar cien más.
 
 [COK4_J:BARON4]
 Ahora, Tommy,
 
 [COK4_K:BARON4]
-cada mes un trabajador autónomo llega en barco hasta Vice City y amarra su barco.
+cada mes, un trabajador independiente navega a Vice City y amarra su yate.
 
 [COK4_L:BARON4]
-Vende su partida al primer barco.
+Vende su cargamento al primer barco.
 
 [COK4_M:BARON4]
-Quiero que cojas la lancha motora
+Quiero que agarres la lancha rápida
 
 [COK4_N:BARON4]
-y que elimines a todos los otros cabrones,
+y elimines a los demás cabezas de mierda,
 
 [COK4_O:BARON4]
-luego me traes aquí el alijo, ¿¡ok!?
+luego me traes el cargamento aquí, ¿¡bien!?
 
 [COK4_P:BARON4]
-Déjame adivinar, pensaste que me podía venir bien un ángel guardián.
+Adivinaré... pensaste que podría necesitar un ángel guardián.
 
 [COK4_Q:BARON4]
-Sólo digo que tienes que dejarme entrar ahí, tío.
+Solo digo que tienes que dejarme entrar, amigo.
 
 [COK4_R:BARON4]
-Ahora ya puedes contarme toda esa basura del 'chico duro solitario',
+Ahora, puedes decirme toda esta mierda de 'chico duro y solitario',
 
 [COK4_S:BARON4]
-pero sé que un día te voy a salvar el culo
+pero sé que un día voy a salvar tu culo,
 
 [COK4_T:BARON4]
-¡y probablemente querrás darme un beso!
+¡y probablemente querrás besarme!
 
 [COK4_U:BARON4]
-Colgado
+Raro.
 
 [COK4_V:BARON4]
-Jajajaja
+¡Jajajajajaja!
 
 [COK4_1:BARON4]
-Así que Tommy, sabemos que fue Díaz quien jodió nuestro trato...
+Entonces, Tommy, sabemos que fue Díaz quien arruinó nuestro intercambio...
 
 [COK4_3:BARON4]
-Así que, ¿por qué coño vamos por ahí haciéndole recados?
+así que, ¿por qué diablos le estamos haciendo trabajos?
 
 [COK4_4:BARON4]
-Cuanto más aprendamos ahora, ¡menos tendremos que aprender cuando tomemos el control de esta ciudad!
+¡Cuanto más aprendamos ahora, menos tendremos que aprender cuando nos hagamos con esta ciudad!
 
 [COK4_5:BARON4]
-Me encanta tu estilo, tío. Muy fresco.
+Me gusta tu estilo, viejo. Muy fresco.
 
 [COK4_12:BARON4]
-¡Cuidado, vienen de todas partes!
+¡Mira, vienen de todas partes!
 
 [COK4_13:BARON4]
-Ya está. ¡Dirígete hacia Díaz tan rápido como puedas!
+Lo tengo. ¡Dirígete hacia Diaz tan rápido como puedas!
 
 [COK4_14:BARON4]
-¡¿Queréis un poco de esto?!
+¡¿Quieren un poco de esto?!
 
 [COK4_15:BARON4]
-¡A dormir con los peces!
+¡Duerman con los peces!
 
 [COK4_16:BARON4]
-¡Comed! ¡COMED!
+¡Traguen esto! ¡TRAGUEN ESTO!
 
 [COK4_19:BARON4]
-¡Más problemas ahí adelante!
+¡Más problemas adelante!
 
 [COK4_20:BARON4]
-¡Hay más pistoleros en el malecón!
+¡Hay tiradores en ese muelle!
 
 [COK4_24:BARON4]
-Buen disparo, amigo mío. Eres un verdadero y auténtico lunático de categoría A.
+Buenos tiros, amigo. Eres un verdadero lunático de grado A.
 
 [COK4_25:BARON4]
 Bueno, gracias.
@@ -8730,25 +8730,25 @@ Bueno, gracias.
 Nos vemos, Tommy.
 
 [COK4_27:BARON4]
-Ok, Sr. Danza Lance Vance
+De acuerdo, Sr. Lance Vance Dance.
 
 [COK4_28:BARON4]
-~g~¡Ve hasta el yate antes de que lleguen los otros barcos!
+~g~¡Llega al yate antes que los otros barcos!
 
 [COK4_31:BARON4]
-~g~¡Ve al barco más rápido del malecón!
+~g~¡Ve al barco más rápido en el muelle!
 
 [COK4_32:BARON4]
-~r~¡Demasiado lento!
+~r~¡Muy lento!
 
 [COK4_33:BARON4]
-~r~¡Has destruido el barco!
+~r~¡Destruiste el barco!
 
 [COK4_34:BARON4]
-~g~¡Hunde esos barcos!
+~g~¡Elimina esos barcos!
 
 [COK4_35:BARON4]
-Estado del barco:
+Barco:
 
 {=================================== MISSION TABLE BARON5 ===================================}
 
@@ -8759,13 +8759,13 @@ Estado del barco:
 ~r~¡Lance está muerto!
 
 [ASS1_A:BARON5]
-He conseguido unos cañones. Están en el maletero.
+Tengo unos cañones en el maletero.
 
 [ASS1_B:BARON5]
-¡Mierda! ¿Dónde conseguiste todo este material?
+¡Santa mierda! ¿De dónde sacaste estas cosas?
 
 [ASS1_C:BARON5]
-Lo he estado guardando para un momento como éste.
+Las he guardado para un día lluvioso.
 
 [ASS1_D:BARON5]
 ¿Te gusta?
@@ -8774,55 +8774,55 @@ Lo he estado guardando para un momento como éste.
 Sí, me gusta.
 
 [ASS1_F:BARON5]
-Estúpidos mamones...
+Estúpidos imbéciles...
 
 [ASS1_G:BARON5]
-mi hermosa casa
+mi hermosa casa...
 
 [ASS1_H:BARON5]
-¡mirad lo que le habéis hecho!
+¡miren lo que le hicieron!
 
 [ASS1_I:BARON5]
 ¡Esto es por mi hermano!
 
 [ASS1_J:BARON5]
-Confiaba en ti, Tommy.
+Confié en ti, Tommy.
 
 [ASS1_K:BARON5]
-Te hubiese convertido en...
+Te hubiera hecho...
 
 [ASS1_L:BARON5]
 Diga buenas noches, Sr. Díaz.
 
 [ASS1_1:BARON5]
-Este lugar va a estar hasta arriba de capullos...ten cuidado...
+Este lugar va a estar lleno de imbéciles... ten cuidado...
 
 [ASS1_2:BARON5]
-No te preocupes Tommy, te cubro.
+No te preocupes Tommy, te cubriré.
 
 [ASS1_4:BARON5]
 ¡Díaz debe estar dentro!
 
 [ASS1_13:BARON5]
-¡¿DÍAZ?! ¡He venido a encargarme de tu negocio!
+¡¿DÍAZ?! ¡He venido a hacerme cargo de tu negocio!
 
 [ASS1_14:BARON5]
-¡TOMMY! Me has traicionado... ¡Imbécil! Voy a acabar contigo muy pronto...
+¡TOMMY! ¡Me traicionaste, idiota! Te mataré rápidamente...
 
 [ASS1_16:BARON5]
 ~g~¡Mata a Diaz!
 
 [BUD1:BARON5]
-Lance
+Lance:
 
 [ASS1_18:BARON5]
-~g~La puerta está cerrada con llave, intenta otra ruta.
+~g~La puerta está cerrada, busca otro camino.
 
 [ASS1_19:BARON5]
 ¡Por aquí!
 
 [ASS1_20:BARON5]
-¡Tommy, mi problema es con Quentin, no contigo, tío!
+¡Tommy, mi problema es con Quentin, no contigo, hombre!
 
 {=================================== MISSION TABLE BIKE1 ===================================}
 
