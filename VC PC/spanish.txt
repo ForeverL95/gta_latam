@@ -8830,31 +8830,31 @@ Lance:
 ¿Dónde está Baker?
 
 [BM1_B:BIKE1]
-Estoy buscando al gran Mitch Baker...
+Estoy buscando a Big Mitch Baker...
 
 [BM1_C:BIKE1]
-¿Quién le busca?
+¿Quién lo busca?
 
 [BM1_D:BIKE1]
 Tommy Vercetti.
 
 [BM1_E:BIKE1]
-Vercetti
+Vercetti.
 
 [BM1_F:BIKE1]
-No pareces policía, así que eso te concede un minuto.
+No pareces de la ley, así que eso te da un minuto.
 
 [BM1_G:BIKE1]
-habla rápido.
+Será mejor que hables rápido.
 
 [BM1_H:BIKE1]
-Kent Paul dijo que podrías estar interesado en llevar la seguridad de una gira que él ha organizado.
+Kent Paul dijo que podrías estar interesado en encargarte de la seguridad para un concierto que tiene organizado.
 
 [BM1_I:BIKE1]
-¿Kent Paul? ¡Bab! No me extraña que te enviase él.
+¿Kent Paul? ¡Shish! No me extraña que te haya enviado.
 
 [BM1_J:BIKE1]
-La última vez que estuvo aquí, se marchó por la ventana sin nada, tal cual le trajo su madre al mundo.
+La última vez que estuvo aquí salió por la ventana, solo con su traje de Adán.
 
 [BM1_K:BIKE1]
 ¿Estás interesado o no?
@@ -8863,25 +8863,25 @@ La última vez que estuvo aquí, se marchó por la ventana sin nada, tal cual le
 Sólo hacemos favores a los nuestros.
 
 [BM1_M:BIKE1]
-¿Cómo puedo unirme a vosotros?
+¿Cómo me inscribo?
 
 [BM1_N:BIKE1]
-Este no es un club de campo, chico. ¿Sabes montar en moto?
+Esto no es un club de campo, muchacho. ¿Puedes conducir una moto?
 
 [BM1_O:BIKE1]
-¿Sabes sentarte en un taburete y beber?
+¿Puedes sentarte en una banqueta y beber?
 
 [BM1_P:BIKE1]
-Cougar, Zeppelin, id a ver como se le da moto...
+Cougar, Zeppelin, vean como esta chica maneja una moto...
 
 [BM1_2:BIKE1]
 ~g~¡Necesitas una Freeway o una Ángel para competir!
 
 [BM1_3:BIKE1]
-~r~¡Los corredores han sido atacados!
+~r~¡Los corredores fueron atacados!
 
 [BIKE1_1:BIKE1]
-Bien, vestidos de fantasía. Veamos qué puedes hacer.
+Muy bien, ropa elegante. Veamos qué puedes hacer.
 
 [BM1_1:BIKE1]
 ~g~Consigue una Freeway o una Ángel y ve a la parrilla de salida.
@@ -8889,70 +8889,70 @@ Bien, vestidos de fantasía. Veamos qué puedes hacer.
 {=================================== MISSION TABLE BIKE2 ===================================}
 
 [BM2_1:BIKE2]
-CAOSMETRO:
+CAOS:
 
 [BM2_A:BIKE2]
-Ja, ja, ja, te tengo de nuevo.
+Ah, te tengo de nuevo.
 
 [BM2_B:BIKE2]
-Hey, Vercetti.
+Ey, Vercetti.
 
 [BM2_C:BIKE2]
-Cougar dice que sabes manejar muy bien una moto.
+Cougar dice que manejas bastante bien una moto.
 
 [BM2_D:BIKE2]
-Sí, ¿cuántos recados más voy a tener que hacer para correr?
+Sí, ¿cuántos recados más tendré que hacer?
 
 [BM2_E:BIKE2]
 Soy un hombre muy ocupado.
 
 [BM2_F:BIKE2]
-Si es un combate lo que va arreglarlo todo, entonces adelante.
+Si es una pelea lo que va a resolver esto, entonces adelante.
 
 [BM2_G:BIKE2]
-Ser uno de nosotros no va solo de fanfarronear. Va de ser parte de una familia.
+Ser uno de nosotros no se trata solo de pelear. Es formar parte de una familia.
 
 [BM2_H:BIKE2]
-Sí, he sido parte de una familia antes. No funcionó.
+Sí, fui parte de una familia antes, bien. No funcionó.
 
 [BM2_I:BIKE2]
-Sí, seguro, pero esta familia cuida de los suyos.
+Sí, claro, pero esta familia cuida de los suyos.
 
 [BM2_J:BIKE2]
-No le pedimos a un hombre que haga el trabajo sucio y luego le dejamos pasar quince años de sequía.
+No le pedimos a un hombre que haga el trabajo sucio y lo abandonamos por quince años.
 
 [BM2_K:BIKE2]
-Sí, es verdad. He hecho mis deberes.
+Sí, es cierto. Hice mi tarea.
 
 [BM2_L:BIKE2]
-Ésta de aquí es la familia más grande de inadaptados, rebeldes e imbéciles.
+Esta es la familia más grande de inadaptados, marginados y rufianes.
 
 [BM2_M:BIKE2]
-Diablos, algunos de nosotros incluso hemos sido traicionados por nuestro propio país.
+Demonios, incluso a algunos de nosotros fuimos traicionados por nuestro propio país.
 
 [BM2_N:BIKE2]
-Estuve preso durante Vietnam. Un tema desagradable.
+Estuve encerrado durante Vietnam. Asunto feo.
 
 [BM2_O:BIKE2]
-Por eso es por lo que voy a pedirte que vayas a armar jaleo.
+Por eso te pido que pelees contra el hombre.
 
 [BM2_P:BIKE2]
-Este maldito país necesita una patada en el culo, y nosotros se la vamos a dar.
+Este maldito país necesita una patada en el culo, y nosotros somos los que la damos.
 
 [BM2_Q:BIKE2]
-¡Así que sal de ahí, pilla una moto, demuestra a esta ciudad lo cabreado que estás!
+¡Así que sal, agarra una moto y muéstrale a esta ciudad lo enojado que estás!
 
 [BM2_R:BIKE2]
-De acuerdo.
+Bien, muy bien.
 
 [BM2_2:BIKE2]
-~g~¡Debes llenar el Caosmetro en el tiempo determinado para demostrarnos lo duro que eres!
+~g~¡Debes llenar el medidor de caos en el tiempo dado para demostrar lo rudo que eres!
 
 [BM2_3:BIKE2]
-~g~Este sonido indica que has llenado una parte del contador, continúa así.
+~g~Este sonido indica que se ha llenado una parte del medidor, sigue así.
 
 [BM2_4:BIKE2]
-~r~¡Has fracasado en llenar el Caosmetro a tiempo!
+~r~¡Fracasaste en llenar el medidor de caos a tiempo!
 
 {=================================== MISSION TABLE BIKE3 ===================================}
 
@@ -8960,55 +8960,55 @@ De acuerdo.
 Hola, Mitch.
 
 [BM3_B:BIKE3]
-Bueno, si es el 'tipo duro' Vercetti.
+Bueno, si es el 'Rudo' Vercetti.
 
 [BM3_C:BIKE3]
-Ahora quiero ver lo bien que sabes luchar por tu territorio.
+Ahora quiero ver qué tan bueno eres para luchar por tu territorio.
 
 [BM3_D:BIKE3]
-Una banda callejera local cometió el error de robar mi harley...
+Una pandilla callejera local cometió el error de robar moto...
 
 [BM3_E:BIKE3]
-probablemente para hacerse los machos o algo así.
+probablemente por algo de machismo o algo así.
 
 [BM3_F:BIKE3]
-Los chicos y yo iríamos a darles una lección sobre el respeto a las propiedades ajenas y todo eso.
+Los chicos y yo iríamos a darles una lección de respeto a todos.
 
 [BM3_G:BIKE3]
-En fin...
+Como sea.
 
 [BM3_H:BIKE3]
-Entonces empecé a pensar que esto sería una buena iniciación para ti.
+Entonces me puse a pensar: esto sería una buena iniciación para ti.
 
 [BM3_I:BIKE3]
-Devuélveme mi moto y puedes decirle a Paul que tiene su seguridad.
+Si recuperas mi moto, puedes decirle a Paul que tiene su seguridad.
 
 [BM3_2:BIKE3]
-~r~¡Se suponía que debías traer de vuelta la moto, no destruirla!
+~r~¡Se suponía que debías devolver la moto, no destruirla!
 
 [BM3_3:BIKE3]
-~g~¡Lleva la moto de vuelta al bar!
+~g~¡Lleva la moto al bar!
 
 [BM3_4:BIKE3]
 ~g~¡Sube a la moto!
 
 [INTRUDE:BIKE3]
-~g~¡Te han visto!
+~g~¡Te descubrieron!
 
 [BM3_6:BIKE3]
-~g~Están refugiados detrás de Ammu-Nation en la zona del centro.
+~g~Están escondidos detrás del Ammu-Nation de Downtown.
 
 [BM3_7:BIKE3]
-~g~Necesitarás una moto rápida para conseguir acceder al tejado.
+~g~Necesitará una moto rápida para acceder al techo.
 
 [BM3_8:BIKE3]
-~g~Utiliza la moto para saltar desde esas escaleras hasta el tejado que hay en el extremo opuesto de la carretera.
+~g~Usa la moto para saltar por estas escaleras, hasta el techo en el lado opuesto de la calle.
 
 [BM3_1:BIKE3]
-~g~Una banda local ha robado la Ángel de Mitch Baker. ¡Recupérala!
+~g~Una pandilla local ha robado la moto de Mitch Baker. ¡Recupérala!
 
 [BM3_9:BIKE3]
-~g~Recupera la Ángel de Mitch y sal de ahí!
+~g~¡Consigue la moto de Mitch y sal de ahí!
 
 {=================================== MISSION TABLE BMX_1 ===================================}
 
