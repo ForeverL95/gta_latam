@@ -7567,13 +7567,13 @@ EL HARDWARE DE AUTODETECT
 {=================================== MISSION TABLE AMBULAE ===================================}
 
 [ATUTOR2:AMBULAE]
-~g~Lleva a los pacientes al hospital CON CUIDADO. Cada bache reduce sus posibilidades de supervivencia.
+~g~Lleva a los pacientes al Hospital CUIDADOSAMENTE. Cada golpe reduce sus posibilidades de sobrevivir.
 
 [A_FULL:AMBULAE]
 ~r~¡¡Ambulancia llena!!
 
 [A_FAIL2:AMBULAE]
-~r~¡Tu falta de urgencia ha sido mortal para el paciente!
+~r~¡Tu falta de urgencia fue fatal para el paciente!
 
 [A_FAIL3:AMBULAE]
 ~r~¡¡El paciente está muerto!!
@@ -7585,19 +7585,19 @@ EL HARDWARE DE AUTODETECT
 ¡Nunca te cansarás!
 
 [A_COMP1:AMBULAE]
-Misiones de ATS completas: $ ~1~
+Misiones de paramédico completadas: $~1~
 
 [A_CANC:AMBULAE]
-~r~¡Misión de ATS cancelada!
+~r~¡Misión de paramédico cancelada!
 
 [A_COMP3:AMBULAE]
-¡Misiones de ATS completadas! ¡Nunca te cansarás cuando estés corriendo!
+¡Misiones de paramédico completadas! ¡Nunca te cansarás al esprintar!
 
 [ALEVEL:AMBULAE]
-Nivel de misión de ATS ~1~
+Nivel de misión de paramédico: ~1~
 
 [A_FAIL1:AMBULAE]
-Misión de ATS terminada
+Misión de paramédico terminada.
 
 [A_SAVES:AMBULAE]
 PERSONAS SALVADAS: ~1~
@@ -7605,60 +7605,60 @@ PERSONAS SALVADAS: ~1~
 {=================================== MISSION TABLE ASSIN1 ===================================}
 
 [ASM1_5:ASSIN1]
-~r~¡Completó sus entregas!
+~r~¡Tu objetivo completó sus entregas!
 
 [ASM1_6:ASSIN1]
-Entregas restantes:
+Entregas Restantes:
 
 [ASM1_7:ASSIN1]
-~g~Carl Pearson, el hombre de reparto de pizza. Mátale antes que finalice el reparto.
+~g~Carl Pearson, repartidor de pizzas. Mátalo antes de que termine sus entregas.
 
 [ASM1_D:ASSIN1]
-Sr. Teal, su ayuda en erradicar a esos forasteros ha sido inestimable para el negocio.
+Sr. Teal, su ayuda para erradicar a esos extranjeros fue invaluable para los negocios.
 
 {=================================== MISSION TABLE ASSIN2 ===================================}
 
 [ASM2_1:ASSIN2]
-~g~La Sra. Dawson dejará pronto la joyería de Vice Point. Mátala. Debe parecer un accidente de coche.
+~g~La Sra. Dawson dejará pronto la joyería de Vice Point. Mátala. Debe parecer un accidente de auto.
 
 [ASM2_3:ASSIN2]
-~g~¡Va a estallar! ¡Largo de aquí!
+~g~¡Va a explotar! ¡Lárgate de ahí!
 
 [ASM2_4:ASSIN2]
-~r~Dañaste su coche ¡y ni siquiera está en él! ¡Ahora no se subirá ahí!
+~r~¡Golpeaste su auto cuando no estaba en él! ¡Ahora ni siquiera lo tocará!
 
 [ASM2_5:ASSIN2]
 ~r~¡Se escapó!
 
 [ASM2_6:ASSIN2]
-~r~¡Estabas demasiado cerca de la escena del accidente!
+~r~¡Estabas demasiado cerca de la escena del 'accidente'!
 
 [ASM2_7:ASSIN2]
-~g~¡No utilices armas! ¡Se supone que debe parecer un accidente! ¡En vez de eso, sácala de la carretera!
+~g~¡Se supone que debe parece un accidente! ¡Intenta sacarla del camino!
 
 [ASM2_8:ASSIN2]
-~g~Debes hacer que la muerte de la Sra. Dawson parezca un accidente. No utilices ningún arma.
+~g~Debes hacer que la muerte de la Sra. Dawson parezca un accidente. No utilices armas.
 
 [ASM2_9:ASSIN2]
-~g~¡Necesitas un coche para este trabajo!
+~g~¡Necesitas un vehículo para este trabajo!
 
 [ASM2_10:ASSIN2]
-~g~Cuando el coche explote en llamas vete lo más lejos posible de la escena del accidente.
+~g~¡Cuando su auto empiece a quemarse, lárgate de ahí!
 
 [ASM2_11:ASSIN2]
-¡Ayúdame!
+¡Ayúdenme!
 
 [ASM2_12:ASSIN2]
 ¡Que alguien me ayude!
 
 [ASM2_13:ASSIN2]
-¡oh, Dios mío!
+¡Oh, Dios mío!
 
 [ASM2_A:ASSIN2]
-Felicidades por un trabajo bien hecho Sr. Teal. Mi cliente está muy satisfecho.
+Felicidades por un trabajo bien hecho Sr. Teal. Mi cliente estaba muy satisfecho.
 
 [ASM2_2:ASSIN2]
-salud:
+Auto:
 
 {=================================== MISSION TABLE ASSIN3 ===================================}
 
@@ -7666,43 +7666,43 @@ salud:
 TIEMPO:
 
 [ASM3_C:ASSIN3]
-Una banda europea planea atracar un banco en Vice City. A mis jefes les gustaría que esto no sucediese.
+Un grupo europeo planea robar un banco en Vice City. Mis jefes preferirían que esto no sucediera.
 
 [ASM3_D:ASSIN3]
-Cada miembro de la banda tiene una tapadera mientras está aquí en Vice City. Algunos tienen trabajos sin importancia y otros están de vacaciones.
+Cada uno de ellos están de encubiertos mientras están aquí en Vice City. Algunos tienen trabajos menores, otros están de vacaciones.
 
 [ASM3_E:ASSIN3]
-Cada objetivo y sus posibles paraderos están pegados con cinta adhesiva bajo el teléfono.
+Cada objetivo y su posible paradero están grabados debajo del teléfono.
 
 [ASM3_14:ASSIN3]
-~g~Dick Tanner está ubicado junto al DBP de Seguridad en Ocean Drive.
+~g~Dick Tanner está trabajando para DBP Security en Ocean Drive.
 
 [ASM3_15:ASSIN3]
-~g~Marcus Hammond y Franco Carter están ubicados junto a la joyería en Vice Point.
+~g~Marcus Hammond y Franco Carter están cerca de la joyería en Vice Point.
 
 [ASM3_16:ASSIN3]
-~g~Nick Kong está ubicado cerca de Washington Beach.
+~g~Nick Kong está navegando por Washington Beach.
 
 [ASM3_18:ASSIN3]
-~g~¡No te acerque demasiado al objetivo o te descubrirá y tendrás que perseguirle hasta atraparle!
+~g~¡No te acerque demasiado al objetivo o podría verte!
 
 [ASM3_19:ASSIN3]
-~g~¡Te ha visto! ¡Acaba con él!
+~g~¡Te ha visto! ¡Elimínalo!
 
 [ASM3_20:ASSIN3]
-~g~¡Te han visto! ¡Asegúrate de acabar con los dos!
+~g~¡Te han visto! ¡Asegúrate de eliminarlos a ambos!
 
 [ASM3_21:ASSIN3]
-~r~¡No mataste a todos los miembros de la banda a tiempo!
+~r~¡No mataste a todos los miembros del grupo a tiempo!
 
 [ASM3_22:ASSIN3]
-~g~¡No te acerques demasiado a los objetivos o te descubrirán e intentarán escapar.
+~g~¡No te acerques demasiado a los objetivos o te verán!
 
 [ASM3_12:ASSIN3]
-~g~Se ha dejado cerca una selección de armas en caso de necesidad. Dispones de ~h~9 MINUTOS ~g~para matar a todos los miembros de la banda.
+~g~Se dejó una selección de armas cerca si las necesitas. Tienes ~h~9 MINUTOS ~g~para matar a todos los miembros del grupo.
 
 [ASM3_13:ASSIN3]
-~g~Mike Griffin está trabajando en una valla de publicidad en Washington.
+~g~Mike Griffin está trabajando en un cartel publicitario en Washington.
 
 [ASM3_17:ASSIN3]
 ~g~Charlie Dilson está corriendo en Washington.
@@ -7713,75 +7713,75 @@ Cada objetivo y sus posibles paraderos están pegados con cinta adhesiva bajo el
 Distancia:
 
 [ASM4_15:ASSIN4]
-~g~Busca el rifle de francotirador hacia tu derecha.
+~g~Consigue el rifle de francotirador a tu derecha.
 
 [ASM4_16:ASSIN4]
-~g~Observa a la mujer de la galería, bajará por las escaleras mecánicas y preguntará a alguien la hora.
+~g~Mira a la mujer en el balcón, bajará las escaleras mecánicas y le preguntará a alguien la hora.
 
 [ASM4_17:ASSIN4]
-~g~Solamente cuando la conversación haya concluido, mata a la persona con la que habló, pero no la mates a ella.
+~g~Cuando la conversación haya terminado, mata a la persona con la que habló, pero no a ella.
 
 [ASM4_18:ASSIN4]
-~g~Cuando el objetivo haya muerto, recupera el maletín y llévalo a Ammu-Nation, en el centro.
+~g~Cuando el objetivo esté muerto, recupera el maletín y llévalo al Ammu-Nation en Downtown.
 
 [ASM4_19:ASSIN4]
-~g~Mantén tu distancia del objetivo, la barra de distancia de la parte superior de la pantalla te indica lo cerca que estás del objetivo.
+~g~¡Mantén tu distancia del objetivo! Fíjate en la barra de distancia en la esquina superior derecha de la pantalla.
 
 [ASM4_20:ASSIN4]
-~g~No dejes que se llene o te verá.
+~g~Si se llena, te verá.
 
 [ASM4_21:ASSIN4]
-~g~¡Recoge el maletín!
+~g~¡Consigue el maletín!
 
 [ASM4_22:ASSIN4]
-~g~Lleva el maletín a Ammu-Nation, en el centro.
+~g~Lleva el maletín al Ammu-Nation en Downtown.
 
 [ASM4_23:ASSIN4]
-~g~¡Te ha visto y se escapa, atrápale y consigue el maletín!
+~g~¡Te ha visto! ¡Elimínalo y consigue el maletín!
 
 [ASM4_25:ASSIN4]
-~r~¡Has matado a la mujer, idiota!
+~r~¡Mataste a la mujer, idiota!
 
 [ASM4_26:ASSIN4]
-~r~¡El objetivo ha subido a su avión!
+~r~¡El objetivo ha abordó su vuelo!
 
 [ASM4_27:ASSIN4]
-~r~¡El objetivo te ha visto! ¡Deberías mantener tu distancia!
+~r~¡El objetivo te vió! ¡Debiste mantener tu distancia!
 
 [ASM4_28:ASSIN4]
-~r~¡El objetivo te ha visto! ¡Te ha escuchado disparar el arma!
+~r~¡El objetivo te escuchó disparar el arma!
 
 [ASM4_29:ASSIN4]
-~r~¡Mátale sólo después que haya hablado con la mujer!
+~r~¿Tienes picazón en el dedo del gatillo? ¡Lo mataste antes!
 
 [ASM4_A:ASSIN4]
-Es hora de freír al pez gordo Sr. Teal. Hay un rifle a su derecha entre el follaje.
+Es hora de freír al pez gordo, Sr. Teal. Hay un rifle en el follaje a su derecha.
 
 [ASM4_B:ASSIN4]
-Observa la mujer que está en la galería por encima de los mostradores de facturación. Caminará por entre la gente y le preguntará a alguien la hora.
+Mire la mujer que está en el balcón por encima de los mostradores de facturación. Caminará entre la multitud y le preguntará a alguien la hora.
 
 [ASM4_C:ASSIN4]
-Debes matar a esa persona, recoger el maletín y llevarlo al lugar indicado en la cinta adherida bajo el teléfono.
+Debe matar a esa persona, obtener su maletín y llevarlo al lugar grabado debajo del teléfono.
 
 {=================================== MISSION TABLE ASSIN5 ===================================}
 
 [ASM5_A:ASSIN5]
-Un valioso canje va a tener lugar en el tejado de la compañía de helados Cherry Popper.
+Un valioso intercambio está ocurriendo en el techo de la Compañía de Helados Cherry Popper.
 
 [ASM5_B:ASSIN5]
-Liquida a todos los implicados, roba el maletín y llévalo al helipuerto del aeropuerto.
+Mata a todos los involucrados, roba la mercancía y llévala al helipuerto del aeropuerto.
 
 [ASM5_C:ASSIN5]
-Hay una puerta a tu izquierda que conduce a la parte trasera de la fábrica.
+Hay una puerta a su izquierda que lleva a la parte trasera de la fábrica.
 
 [ASM5_1:ASSIN5]
-~g~Entra al complejo por detrás de la compañía de helados Cherry Popper y dirígete al tejado donde va a tener lugar el trato.
+~g~Entra al complejo detrás de la Compañía de Helados Cherry Popper. El trato se está llevando a cabo en el techo.
 
 [ASM5_2:ASSIN5]
-~g~Consigue el maletín y llévalo al helipuerto del aeropuerto.
+~g~¡Consigue la mercancía y llévala al helipuerto del aeropuerto!
 
 [ASM5_3:ASSIN5]
-~g~¡Lleva el maletín al helipuerto del aeropuerto!
+~g~¡Lleva la mercancía al helipuerto del aeropuerto!
 
 {=================================== MISSION TABLE BANKJ1 ===================================}
 
