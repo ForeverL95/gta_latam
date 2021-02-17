@@ -7786,52 +7786,52 @@ Hay una puerta a su izquierda que lleva a la parte trasera de la fábrica.
 {=================================== MISSION TABLE BANKJ1 ===================================}
 
 [WANTED1:BANKJ1]
-~g~¡Quítate de encima a los polis y pierde tu nivel de se busca!
+~g~¡Pierde a la policía y tu nivel de búsqueda!
 
 [BJM1_A:BANKJ1]
-¡Tommy!¡Hey, Tommy, mira esto, es genial! ¡He hecho que nos instalen un minibar!
+¡Tommy!¡Ey, Tommy, mira esto, es genial! ¡Hice que nos instalaran un minibar!
 
 [BJM1_B:BANKJ1]
-Tenemos todo un bar abajo, Ken.
+Tenemos un bar entero abajo, Ken.
 
 [BJM1_C:BANKJ1]
-Sí, sí, vale. Bueno, tengo la pizarra que pediste.
+Sí, sí, lo que sea. Bueno, tengo la pizarra que pediste.
 
 [BJM1_D:BANKJ1]
-Ah, eso es lo bueno de la educación escolar: te enseñan a seguir las instrucciones.
+Ah, ese beneficio de una educación en la escuela de derecho: la capacidad de seguir instrucciones.
 
 [BJM1_E:BANKJ1]
-Ahora necesito un hombre para la caja fuerte.
+Ahora, necesito un hombre para la caja fuerte.
 
 [BJM1_F:BANKJ1]
-Oh, de acuerdo, bueno, déjame pensar... caja fuerte, caja fuerte, caja fuerte, caja fuerte... ¡Lo tengo! ¡Este tipo te hará explotar!
+Oh, bien, bueno, déjame pensar... caja fuerte, caja fuerte, caja fuerte, caja fuerte... ¡Lo tengo! ¡Este tipo te dejará boquiabierto!
 
 [BJM1_G:BANKJ1]
-Ah, ese idiota no. Está encerrado.
+Ahh, no, ese idiota. Está adentro.
 
 [BJM1_H:BANKJ1]
-¿Encerrado dónde?
+¿Adentro de dónde?
 
 [BJM1_I:BANKJ1]
-En la celda de una comisaría esperando el traslado.
+En una celda de la estación de policía esperando su traslado.
 
 [BJM1_J:BANKJ1]
-Creo que está a punto de conseguir la libertad condicional...
+Creo que está por de ser puesto en libertad condicional...
 
 [BJM1_1:BANKJ1]
-~g~¡Libera a Cam Jones de la comisaría de policía!
+~g~¡Libera a Cam Jones de la estación de policía!
 
 [BJM1_3:BANKJ1]
-~g~Encontrarás algo útil en el vestuario de la comisaría.
+~g~Encontrarás algo útil en el vestuario de la estación.
 
 [BJM1_21:BANKJ1]
-~g~Puedes encontrar la llave de las celdas en el piso de arriba de la comisaría.
+~g~La tarjeta de acceso a las celdas se encuentra en el piso de arriba en la estación.
 
 [BNK1_7:BANKJ1]
 ¿Cam Jones?
 
 [BNK1_8:BANKJ1]
-¡Te voy a sacar de aquí!
+¡Te estoy liberando!
 
 [BNK1_10:BANKJ1]
 Sí, soy yo...
@@ -7840,117 +7840,117 @@ Sí, soy yo...
 ¡Lo que tú digas!
 
 [BNK1_13:BANKJ1]
-Voy a hacer un trabajo y tu serás mi revienta cajas fuertes.
+Voy a hacer un trabajo y eres mi hombre para la caja fuerte.
 
 [BNK1_14:BANKJ1]
-¡Eso es mejor que pudrirse en una celda!
+¡Es mejor perder el culo en una celda!
 
 [BJM1_22:BANKJ1]
 ~g~¡Lleva a Cam de vuelta a su casa!
 
 [BJM1_23:BANKJ1]
-~g~¡Necesitas coger la tarjeta llave primero!
+~g~¡Debes conseguir la tarjeta de acceso primero!
 
 [BNK1_12:BANKJ1]
-¡Destruye las pruebas y llévame a mi casa!
+¡Haz que dejen de buscarnos y llévame a mi casa!
 
 [BJM1_20:BANKJ1]
-¡Guarda el arma o te enfréntate a las consecuencias!
+¡Guarda el arma o enfrenta las consecuencias!
 
 [BJM1_5:BANKJ1]
 ¡Sólo personal autorizado más allá de este punto!
 
 [BJM1_2:BANKJ1]
-~r~¡Se supone que tenías que sacar a rastras a Cam, no matarle!
+~r~¡Se suponía que ibas a liberar a Cam, no a matarlo!
 
 [BJM1_4:BANKJ1]
-¡Está armado! ¡Mátale!
+¡Está armado! ¡Mátalo!
 
 {=================================== MISSION TABLE BANKJ2 ===================================}
 
 [BJM2_A:BANKJ2]
-Necesitamos a un atracador. ¿Conoces a alguno?
+Necesitamos a otro ladrón. ¿Conoces alguno?
 
 [BJM2_B:BANKJ2]
-Hey, Tommy, Tommy, Tommy, esta mierda te pone a tono, tío.
+Ey, Tommy, Tommy, Tommy, esta cosa te mantiene alerta, hombre.
 
 [BJM2_C:BANKJ2]
-¡Guauuuuu!
+¡Uuuuuuuu!
 
 [BJM2_D:BANKJ2]
-¡Yo podría ser tu atracador!... ¡Manos arriba! ¡Manos arriba!
+¡Podría ser tu ladrón! ¡Manos arriba! ¡Manos arriba!
 
 [BJM2_E:BANKJ2]
-Tú no eres un atracador, tú eres un idiota.
+Tú no eres un ladrón, eres un idiota.
 
 [BJM2_F:BANKJ2]
-Ahora ponte una copa y cállate.
+Ahora sírvete un trago y cállate.
 
 [BJM2_G:BANKJ2]
-Hey. ¡Quítate de mi camino! Sí, sí, sí, eh, eh.
+¡Ey, fuera de mi camino! ¡Sí, sí, sí! ¡Ou, ou, ou!
 
 [BJM2_H:BANKJ2]
-¿Cam, qué opinas tú?
+Cam, ¿qué piensas?
 
 [BJM2_I:BANKJ2]
 Bueno, el mejor tirador de esta ciudad es un tipo llamado Cassidy.
 
 [BJM2_J:BANKJ2]
-¿Seguro?
+¿En verdad?
 
 [BJM2_K:BANKJ2]
-Sí. Un militar, o al menos él piensa que lo es.
+Sí. Un tipo militar, o él cree que lo es.
 
 [BJM2_L:BANKJ2]
-Dudo que estuviese alguna vez en el ejército, pero desde luego sabe manejar las armas.
+Dudo que haya estado alguna vez en el ejército, pero sí que sabe cómo agarrar las armas.
 
 [BJM2_M:BANKJ2]
 Estará en el campo de tiro.
 
 [BJM2_2A:BANKJ2]
-¿Tú eres Phil Cassidy?
+¿Eres Phil Cassidy?
 
 [BJM2_2B:BANKJ2]
 ¿Por qué?
 
 [BJM2_2C:BANKJ2]
-Estoy buscando a un hombre que sepa manejar un arma. Pero ahora que te veo, no estoy muy convencido.
+Estoy buscando un hombre que sepa manejar un arma. Pero desde aquí, no estoy muy convencido.
 
 [BJM2_2D:BANKJ2]
-Hijo, podría quitarte una mosca de tu cabeza de un solo disparo a 100 metros.
+Hijo, podría dispararle a una mosca en tu cabeza a 20 metros.
 
 [BJM2_2E:BANKJ2]
-Oh, ¿de verdad?
+Oh, ¿en serio?
 
 [BJM2_2F:BANKJ2]
 Sí. Aprendí en el ejército.
 
 [BJM2_2G:BANKJ2]
-¿Se suele disparar a las moscas en el ejército? Me alegra no pagar impuestos.
+¿Disparar a las moscas es muy popular en el ejército? Me alegro de no pagar impuestos.
 
 [BJM2_2H:BANKJ2]
-¿Intentas ser gracioso?
+¿Intentas ser gracioso, chico?
 
 [BJM2_2I:BANKJ2]
-¡Ja, ja, ja, ja, ja!
+¡Jajajajaja!
 
 [BJM2_2J:BANKJ2]
 Vamos a disparar.
 
 [BJM2_1:BANKJ2]
-~g~Ve a Ammu-Nation en el centro de la ciudad y habla con Phil Cassidy.
+~g~Ve al Ammu-Nation en Downtown y habla con Phil Cassidy.
 
 [BJM2_4:BANKJ2]
-PUNTUACIÓN PRIMERA FASE: ~1~
+PUNTUACIÓN DE RONDA 1: ~1~
 
 [BJM2_6:BANKJ2]
-PUNTUACIÓN SEGUNDA FASE: ~1~
+PUNTUACIÓN DE RONDA 2: ~1~
 
 [BJM2_7:BANKJ2]
-PUNTUACIÓN TOTAL DE DISPARO: ~1~
+PUNTUACIÓN TOTAL DE DISPAROS: ~1~
 
 [BJM2_9:BANKJ2]
-~g~Ve al punto de inicio de la segunda fase.
+~g~Ve al punto de inicio de la segunda ronda.
 
 [BJM2_11:BANKJ2]
 ~r~¡Phil está muerto!
@@ -7959,164 +7959,164 @@ PUNTUACIÓN TOTAL DE DISPARO: ~1~
 ~r~¡Uno de los tiradores está muerto!
 
 [BJM2_14:BANKJ2]
-~g~¡Pasa a la siguiente fase!
+~g~¡Ve a la siguiente área!
 
 [BJM2_17:BANKJ2]
-~g~Ve y habla con Phil.
+~g~Ve a hablar con Phil.
 
 [BJM2_24:BANKJ2]
-~g~El objetivo más cercano vale un punto.
+~g~El objetivo más cercano vale 1 punto.
 
 [BJM2_25:BANKJ2]
-~g~El objetivo del medio vale dos puntos.
+~g~El objetivo del medio vale 2 puntos.
 
 [BJM2_27:BANKJ2]
-~g~Todos los objetivos de esta ronda valen un punto.
+~g~Todos los objetivos de esta ronda valen 1 punto.
 
 [BNK2_4:BANKJ2]
-¡Yupiiiiiii!
+¡Uuuuiii!
 
 [BNK2_5:BANKJ2]
-¡No podrías darle ni a un elefante a 2 metros!
+¡No podrías golpear ni la puerta de un granero!
 
 [BNK2_7:BANKJ2]
-¡Anda hazme un favor y ayúdame a montar un trabajito!
+Entonces, ¿quieres hacerme un favor y ayudarme con un trabajo?
 
 [BNK2_8:BANKJ2]
-Hijo, disparando de ese modo, si me pidieras que sea tu mujer, te diría que sí.
+Hijo, después de disparar así, si me pidieras que fuera tu esposa, diría que sí.
 
 [BNK2_9A:BANKJ2]
-Hijo, mejor será que te vayas y te metas tus ideas y palabrería donde te quepan. Eres una mierda disparando.
+Hijo, será mejor que metas tu palabrería y tus grandes ideas donde no llegue el sol. ¡No puedes darle a nada!
 
 [BNK2_9B:BANKJ2]
-Eres una mierda disparando.
+No puedes darle a nada.
 
 [BJM2_28:BANKJ2]
-PUNTUACIÓN RONDA TRES: ~1~
+PUNTUACIÓN DE RONDA TRES: ~1~
 
 [BJM2_26:BANKJ2]
-~g~El objetivo más lejano vale tres puntos.
+~g~El objetivo más lejano vale 3 puntos.
 
 [RANGE_1:BANKJ2]
 PUNTUACIÓN POR DISPARO: ~1~
 
 [BJM2_2:BANKJ2]
-~g~Para salir de la fase pulsa el ~h~~k~~PED_JUMPING~.
+~g~Para salir de la ronda usa ~h~~k~~PED_JUMPING~.
 
 [BJM2_N:BANKJ2]
-Tranqui
+Relájate
 
 {=================================== MISSION TABLE BANKJ3 ===================================}
 
 [BJM3_A:BANKJ3]
-Las cosas empiezan a ir bien por aquí.
+Las cosas están empezando a encajar muy bien aquí.
 
 [BJM3_B:BANKJ3]
-¡Hey, man! ¿Cuál es el plan, Tommy?
+¿Cuál es el plan, Tommy? ¿Qué pasa, amigo?
 
 [BJM3_C:BANKJ3]
-El plan es que sigas con tu mierda como un imbécil. En fin, necesitamos a un conductor.
+El plan es que sigas actuando como un idiota. Como sea, necesitamos un conductor.
 
 [BJM3_D:BANKJ3]
-Tommy, yo lo haré. Sé conducir.
+Tommy, yo lo haré. Yo puedo conducir.
 
 [BJM3_E:BANKJ3]
-Necesitamos a Hilary, señor, no a un picapleitos charlatán.
+Tú quieres a Hilary, señor. No a un idiota legal que habla con elegancia.
 
 [BJM3_F:BANKJ3]
-Hilary es nuestra mejor opción. Seguro que no has visto nunca conducir a nadie tan rápido. Voy a darle un toque.
+Hilary es lo mejor. Nunca has visto a nadie conducir tan rápido. Lo llamaré desde aquí.
 
 [BJM3_G:BANKJ3]
-Hey Hil, soy Phil. ¿Cómo te va? No, no hables. Recordaremos los viejos tiempos más tarde. ¿Quieres hacerme un favor?
+Ey Hil, soy Phil. ¿Cómo estás? No. No hables. Nos pondremos a recordar más tarde. ¿Quieres hacerme un favor?
 
 [BJM3_H:BANKJ3]
-Tengo a un tipo del norte... No, no, no creo que sirviese en el ejército, pero quiere un conductor.
+Conocí a un tipo del norte. No, no, no creo que estuviera en el ejército, pero quiere un conductor.
 
 [BJM3_I:BANKJ3]
-Por un poco de acción. De acuerdo, comprendo.
+Por un poco de acción. Bien, entiendo.
 
 [BJM3_J:BANKJ3]
 ¿Qué dijo?
 
 [BJM3_K:BANKJ3]
-Bueno, lo hará, no hay problema. Bueno, podría haber un pequeño problema... Esto, tiene problemas con su divorcio.
+Bueno, lo hará, no hay problema. Bueno, puede haber un pequeño problema. Mira, tiene problemas de soledad.
 
 [BJM3_L:BANKJ3]
-Y parece que no trabajará para nadie que no pueda derrotarle. Tiene algo que ver con su madre o algo así.
+Parece que no trabajará para nadie que no pueda vencerlo. Algo que ver con su mamá.
 
 [BJM3_M:BANKJ3]
-De todas formas primero quiere echarte una carrera, dice que se encontrará contigo fuera...
+En fin, quiere competir contigo primero, dijo que te encontraría afuera...
 
 [BJM3_2A:BANKJ3]
-¿Eres Tommy? Por supuesto que eres Tommy, quiero decir,
+¿Eres Tommy? Claro que eres Tommy, digo,
 
 [BJM3_2B:BANKJ3]
-¿Quién más querría hablar conmigo?
+¿por qué alguien querría hablar conmigo?
 
 [BJM3_2C:BANKJ3]
-Ok. Considéralo así.
+Bien. Considéralo así.
 
 [BJM3_2D:BANKJ3]
-Conduciré para ti solamente si me demuestras que conduces bien.
+Conduciré para ti SOLAMENTE, y SOLAMENTE, demuestras que sabes conducir bien.
 
 [BJM3_2E:BANKJ3]
-Déjame tirado, y nunca te perdonaré.
+Abandóna,e, y nunca te lo perdonaré.
 
 [BJM3_2:BANKJ3]
 ~r~¡Hilary está muerto!
 
 [BJM3_4:BANKJ3]
-~g~¡Necesitas un coche para participar!
+~g~¡Necesitas un auto para poder correr!
 
 [BNK3_1:BANKJ3]
-Ok. Te llevaré pero por favor, machácame un poco.
+Está bien. Conduciré para ti, pero por favor, trátame mal.
 
 [BNK3_3A:BANKJ3]
-Carrera callejera ilegal en progreso en Vice Point.
+Carrera callejera ilegal en curso por Vice Point.
 
 [BNK3_3B:BANKJ3]
-Llamando a todos los agentes.
+Llamando a todos los oficiales.
 
 [BNK3_3C:BANKJ3]
-Corredores callejeros, ¡esto es ilegal y no está permitido!
+Corredores callejeros, ¡esto es ilegal y está prohibido!
 
 {=================================== MISSION TABLE BANKJ4 ===================================}
 
 [BNK4_A:BANKJ4]
-~w~Como podéis ver, caballeros, éste va a ser el dinero más fácil que hayamos ganado jamás.
+~w~Como pueden ver, caballeros, este será el dinero más fácil que hayamos ganado.
 
 [BNK4_B:BANKJ4]
-~w~Tommy, de verdad, tienes que plantearte seriamente el meterte en la abogacía.
+~w~Tommy, en serio, debes considerar la posibilidad de ser abogado.
 
 [BNK4_C:BANKJ4]
-~w~Pero, ¿qué coño te estás fumando, tío? ¡Este no es un plan sencillo!
+~w~¿Qué diablos estás fumando, hombre? ¡Este no es un plan simple!
 
 [BNK4_D:BANKJ4]
-~w~Bueno, de todas formas, ¿quién necesita un plan sencillo?
+~w~Bueno, ¿quién necesita un plan simple de todos modos?
 
 [BNK4_E:BANKJ4]
-~w~Mira el comunismo, bien, pues ese era un plan sencillo. Y jodió bien a Rusia ¿no?
+~w~Tomemos el comunismo, ese era un plan simple. No le hizo ningún favor a Rusia, ¿eh?
 
 [BNK4_F:BANKJ4]
-~w~Cálmate, ¿vale? Con un equipo como éste, no va a haber problemas.
+~w~Cálmate, ¿sí? Con un equipo como este, no habrá problema.
 
 [BNK4_G:BANKJ4]
-~w~Tenemos a Cam en la caja fuerte. ¿Phil? Tú y yo nos encargaremos de la seguridad y Hilary conducirá el coche de huída.
+~w~Tenemos a Cam en la caja fuerte. ¿Phil? Nos ocuparemos de la seguridad, y Hilary conducirá el coche de escape.
 
 [BNK4_H:BANKJ4]
-~w~Uh, je, je, ¿no te olvidas de alguien? ¿Alguien que te ayudó siempre en esta ciudad? ¿Alguien...?
+~w~Uh, je, je, ¿no te olvidas de alguien? ¿Alguien que te ayudó muchísimo en esta ciudad? Alguien que...
 
 [BNK4_I:BANKJ4]
-~w~Ken... Ken, es cierto. Aquí Ken, él nos lavará el dinero y mantendrá las bebidas frías.
+~w~Ken... Ken, es cierto. Aquí Ken, lava el dinero para nosotros y mantiene las bebidas frescas.
 
 [BNK4_J:BANKJ4]
-~w~No comprendo qué se supone que debo hacer aquí.
+~w~No entiendo lo que se supone que debo hacer aquí.
 
 [BNK4_K:BANKJ4]
-~w~Mira, es sencillo. ¿No has visto nunca una película?
+~w~Mira, es fácil. ¿Nunca has visto una película?
 
 [BNK4_L:BANKJ4]
-~w~Entramos en el banco, enseñamos las armas y nos marchamos siendo hombres muy ricos.
+~w~Entramos en el banco, movemos las armas y nos vamos siendo hombres muy ricos.
 
 [P_DEAD:BANKJ4]
 ~r~¡¡Phil está muerto!!
@@ -8128,55 +8128,55 @@ Corredores callejeros, ¡esto es ilegal y no está permitido!
 ~r~¡¡Hilary está muerto!!
 
 [P_HIND:BANKJ4]
-~r~¡Has perdido a Phil!
+~r~¡Perdiste a Phil!
 
 [C_HIND:BANKJ4]
-~r~¡Cam se ha quedado atrás!
+~r~¡Cam se quedó atrás!
 
 [H_HIND:BANKJ4]
-~r~¡Hilary ha sido abandonado!
+~r~¡Hilary fue abandonado!
 
 [GETCAR:BANKJ4]
-~g~¡Sube en el coche de escapada para hacer el trabajito del banco!
+~g~¡Sube al auto de escape para hacer el trabajo del banco!
 
 [TRASHED:BANKJ4]
-~r~¡¡DESTROZASTE EL COCHE DE ESCAPADA!!
+~r~¡¡DESTRUISTE EL AUTO DE ESCAPE!!
 
 [BNK4_1:BANKJ4]
 Yo conduciré.
 
 [BNK4_2:BANKJ4]
-Genial. Un pasajero. Espera a que les hable de esto al grupo.
+Genial. Un pasajero. Esperen a que les cuente al grupo sobre esto.
 
 [BNK4_3A:BANKJ4]
-¡Hey, cuidado con las ruedas, Tommy!
+¡Ey, cuidado con el auto, Tommy!
 
 [BNK4_3B:BANKJ4]
-¡Tommy, Hilary está ocupando mucho espacio!
+¡Tommy, Hilary ocupa demasiado espacio!
 
 [BNK4_3C:BANKJ4]
 ¡No es verdad!
 
 [BNK4_3D:BANKJ4]
-¡Sí!
+¡Que sí!
 
 [BNK4_3E:BANKJ4]
-Hey, callaos los dos o iréis andando.
+Ey, cállense los dos, o irán caminando.
 
 [BNK4_3F:BANKJ4]
-Sí, Hilary.
+Sí, HILARY.
 
 [BNK4_3I:BANKJ4]
-Por el amor de Dios, Phil, deja de agitar esa cosa.
+¡Por el amor de Dios, Phil, deja de agitar esa cosa!
 
 [BNK4_3J:BANKJ4]
-¡Sí, le sacarás un ojo a alguien!
+¡Sí, le sacarás el ojo a alguien!
 
 [BNK4_3M:BANKJ4]
-¡Mi pequeña! ¡Está hecha un desastre!
+El auto está arruinado. ¡ARRUINADO!
 
 [BNK4_3O:BANKJ4]
-Te aferras a la ilusión de una permanencia perpetua...
+Te aferras a una ilusión de permanencia.
 
 [BNK4_3P:BANKJ4]
 ¿Qué?
@@ -8185,121 +8185,121 @@ Te aferras a la ilusión de una permanencia perpetua...
 Crees que todas las cosas durarán.
 
 [BNK4_3R:BANKJ4]
-La juventud, los seres queridos, la pizza...
+La juventud, los seres queridos, la pizza.
 
 [BNK4_3S:BANKJ4]
 Todo pasará o terminará y debes aceptar eso.
 
 [BNK4_3T:BANKJ4]
-Hey, sí, tienes razón. Gracias, Cam.
+Tienes razón. Gracias, Cam.
 
 [BNK4_3U:BANKJ4]
-No hay de que.
+Ni lo menciones.
 
 [BNK4_3V:BANKJ4]
-Hey, Tommy, ¿por qué nos hemos detenido?
+Ey, Tommy, ¿por qué nos detuvimos?
 
 [BNK4_4A:BANKJ4]
-~w~Hilary, sigue conduciendo en torno a la manzana.
+~w~Sigue conduciendo alrededor de la cuadra, ¿sí?
 
 [BNK4_5:BANKJ4]
-~w~De acuerdo, Tommy, de acuerdo.
+~w~Está bien, Tommy, está bien.
 
 [BNK4_6:BANKJ4]
 ~w~¡ESTO ES UN ATRACO!
 
 [BNK4_7:BANKJ4]
-~w~¡QUE NADIE SE MUEVA!
+~w~¡NADIE SE MUEVA!
 
 [BNK4_8:BANKJ4]
-~w~¡TODO EL MUNDO CONTRA ESA PARED!
+~w~¡TODOS CONTRA ESE MURO!
 
 [BNK4_9:BANKJ4]
-¡Phil, quédate vigilando!
+¡Phil, mantente alerta!
 
 [BNK4_10:BANKJ4]
-¡No problemo!
+¡Copiado, Roger!
 
 [BNK4_11:BANKJ4]
-Vamos, Cam, la cámara acorazada está arriba...
+Vamos Cam, la bóveda está arriba...
 
 [BK4_12A:BANKJ4]
-¡Maldición! ¡Es una Flange 9000!
+¡Demonios! ¡Es una Flange 9000!
 
 [BK4_12B:BANKJ4]
-Podría tardar horas en abrirla,
+Esto podría tardar horas en abrirse,
 
 [BK4_12C:BANKJ4]
-o cinco minutos si encuentras al director.
+o cinco minutos si pudieras encontrar al gerente.
 
 [BNK4_13:BANKJ4]
-Iré a averiguar en qué agujero se ha metido.
+Iré a buscar dónde está escondido.
 
 [BK4_14A:BANKJ4]
-Phil, ¿van bien las cosas?
+Phil, ¿las cosas van bien?
 
 [BNK4_15:BANKJ4]
 Seguro. Todo está muuuuy tranquilo.
 
 [BNK4_16:BANKJ4]
-¡Tú, ven conmigo!
+¡Tú vienes conmigo!
 
 [BNK4_17:BANKJ4]
-¡De acuerdo! ¡De acuerdo! ¡Por favor, no dispare!
+¡Bueno! ¡Bueno! ¡No dispares!
 
 [BNK4_18:BANKJ4]
-¡DIJE QUE NO SE MOVIESE NADIE!
+¡DIJE QUE NADIE SE MUEVA!
 
 [BK4_19A:BANKJ4]
-Tiene un cierre temporizado.
+Tiene un bloqueo con temporizador,
 
 [BK4_19B:BANKJ4]
-¡podríais rendiros ahora mismo!
+¡es mejor que se rindan ahora!
 
 [BK4_20A:BANKJ4]
-Diablos, puedo hacer un puente en el cierre temporizado,
+Diablos, puedo saltar el bloqueo con temporizador,
 
 [BK4_20B:BANKJ4]
-¡Así que solo necesitaremos tu código de acceso y ya está!
+¡Solo necesitamos tu clave y estaremos bien!
 
 [BNK4_21:BANKJ4]
-Quédate aquí. Intenta algo y serás comida para los peces. ¿Lo captas?
+Quédate aquí. Intenta cualquier cosa y estás muerto.
 
 [BK4_24A:BANKJ4]
-Voy a comprobar qué tal va Phil, volveré.
+Voy a ver a Phil, vuelvo enseguida.
 
 [BK4_24B:BANKJ4]
-¡Te dije que no tocases esa alarma!
+¡Te dije que no tocaras esa alarma!
 
 [BNK4_25:BANKJ4]
-¡Los de operaciones especiales estarán aquí en cualquier momento!
+¡El equipo SWAT estará aquí en cualquier momento!
 
 [BNK4_27:BANKJ4]
-¡Me vendría bien un poco de ayuda aquí, Tommy!
+¡Me vendría bien un poco de ayuda, Tommy!
 
 [BNK4_28:BANKJ4]
-¡S.W.A.T de Vice City! ¡Estáis rodeados!
+¡SWAT de Vice City! ¡Están completamente rodeados!
 
 [BNK4_29:BANKJ4]
-¿Rodeados? ¡JA, JA, JA, JAAAAA!
+¿Rodeados? ¡JA, JA, JA, JAAAAAAAA!
 
 [BNK4_30:BANKJ4]
-La están cagando, ¡bastardos corruptos!
+¡Se están cagando, bastardos corruptos!
 
 [BK4_31A:BANKJ4]
-¡Tommy! ¡La cámara acorazada está abierta!
+¡Tommy! ¡La bóveda está abierta!
 
 [BK4_34A:BANKJ4]
-De acuerdo, tenemos el fondo de pensiones de los SWAT. ¡Salgamos de aquí!
+Bien, tenemos el fondo de jubilación de SWAT. ¡Salgamos de aquí!
 
 [BK4_34B:BANKJ4]
-¡De acuerdo, vosotros lo habéis pedido! ¡Habéis tenido vuestra última oportunidad!
+¡Muy bien, ustedes lo pidieron! ¡Tuvieron su última oportunidad!
 
 [BK4_35A:BANKJ4]
-¡Van a arrasar el lugar!
+¡Van a entrar aquí!
 
 [BK4_35B:BANKJ4]
-¡A cubierto!
+¡Cúbranse!
 
 [BNK4_36:BANKJ4]
 ¿Dónde está Cam?
@@ -8308,55 +8308,55 @@ De acuerdo, tenemos el fondo de pensiones de los SWAT. ¡Salgamos de aquí!
 Es historia...
 
 [BNK4_38:BANKJ4]
-Ése era el último. ¡VAMOS! ¡VAMOS! ¡VAMOS!
+Era el último de ellos. ¡VAMOS! ¡VAMOS! ¡VAMOS!
 
 [BNK_39:BANKJ4]
 ¡Mierda! ¿Dónde está Hilary?
 
 [BK4_40A:BANKJ4]
-¡Ya le daré yo miedo al abandono!
+¡Yo le daré problemas de abandono!
 
 [BNK4_42:BANKJ4]
-¡Hey tíos! ¡Subid! ¡Yo os cubro!
+¡Ey, chicos! ¡Entren! ¡Los cubriré!
 
 [BNK4_44:BANKJ4]
-¡Lo conseguimos! ¡Somos ricos! ¡RICOS!
+¡Lo hicimos! ¡Somos ricos! ¡RICO!
 
 [BNK4_45:BANKJ4]
-Es una pena que Cam no lo consiguiese, ¡era un buen tipo!
+Es una lástima que Cam no lo logró, ¡era un buen tipo!
 
 [BNK4_46:BANKJ4]
-Sí. Pero aún así... ¡más tajada para nosotros!
+Sí. Aún así... ¡más para nosotros!
 
 [BNK4_47:BANKJ4]
-¡Claro que sí! ¡SÍIIII!
+¡Maldición! ¡SIIIIIII!
 
 [BNK4_48:BANKJ4]
-Tommy, ¿te gustaría un masaje?
+Tommy, ¿quieres un masaje?
 
 [BNK4_49:BANKJ4]
-¡Hola, Mercedes! Sí, estoy un poco tenso...
+Bueno. ¡Hola, Mercedes! Sí, estoy un poco tenso...
 
 [BNK450A:BANKJ4]
-¿Qué te dije, Tommy? ¿Qué te dije? Maldito SWAT, será mejor que tengas cuidado cuando Kent Paul esté en la ciudad.
+¿Qué te dije, Tommy? ¿Qué te dije? Estúpido SWAT, mejor cuídense cuando Kent Paul esté en la ciudad.
 
 [BNK450B:BANKJ4]
-Vamos, dame una tajada más grande, colega, venga. Tengo que comprarme ropa nueva.
+Vamos, dame un poco más, amigo, vamos. Debo conseguir algo de ropa nueva.
 
 [BNK4_94:BANKJ4]
-~w~De acuerdo chicos. Ha sido tan fácil como lo habíamos planeado.
+~w~Bien, muchachos. Muy fácil, tal como lo planeamos.
 
 [BM_DEAD:BANKJ4]
-~r~¡Necesitas al director del banco vivo!!
+~r~¡¡Necesitabas al gerente del banco con vida!!
 
 [ASSET_A:BANKJ4]
-¡ATRACO AL BANCO COMPLETADO!
+¡ROBO AL BANCO COMPLETADO!
 
 [ASSET_B:BANKJ4]
-~g~El Club Malibú generará ahora unos ingresos máximos de hasta $~1~. ¡Recoge tu dinero con regularidad!
+~g~El Club Malibú generará unos ingresos de hasta $~1~. ¡Busca tu dinero con regularidad!
 
 [IDIOT:BANKJ4]
-~r~ Eso es, ve por ahí vestido como un chiflado y llamando la atención, ¡IDIOTA!
+~r~Bien, deambula vestido como un lunático y llama la atención, ¡IDIOTA!
 
 {=================================== MISSION TABLE BARON1 ===================================}
 
